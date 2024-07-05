@@ -1,0 +1,39 @@
+## Summary of Positive STEPS Trial Methods
+
+This pilot study examined the feasibility and effectiveness of a telephone-delivered intervention, Positive STEPS, for managing chronic pain in African American older adults. 
+
+**Design:** Randomized, parallel-group with intervention and control conditions.
+
+**Setting:** Detroit, Michigan (May to December 2020).
+
+**Participants:** 
+* Age 60+ years old
+* Ambulatory with or without an assistive device
+* Musculoskeletal pain lasting at least 3 months
+* Smartphone or ability to watch videos online
+* Excluded for: recent hospitalization, memory difficulties
+
+**Intervention (Positive STEPS):**
+* 7-week program delivered remotely via phone calls, website, and mailed materials
+* Focused on cognitive-behavioral pain management skills and positive activities
+* Culturally adapted for African American older adults
+* Key components:
+    * Weekly phone sessions with a community health worker (CHW)
+    * Web-based videos on pain management and positive activities (participants chose from options like savoring and gratitude)
+    * Workbook summarizing key points
+    * Activity tracker (optional)
+
+**Control Condition:**
+* Did not receive any intervention between baseline and follow-up assessments
+* Offered program materials and a one-time session with a CHW after follow-up
+
+**Outcomes:**
+* Primary: pain interference and physical functioning (measured by PROMIS scales)
+* Secondary: participant global impression of change, pain intensity, pain self-efficacy, social participation, resilience, health & demographics
+* Feasibility & Acceptability: retention rate, session completion, feedback from participants
+
+**Data Analysis:**
+* Statistical comparisons between intervention and control groups at baseline and follow-up
+* Assessment of effect sizes and clinically important changes
+
+This summary captures the essential elements of the Positive STEPS trial methods, including the study design, participant criteria, intervention details, control condition, outcome measures, and data analysis plan. It condenses the original text by about 70%, while preserving the key information for understanding and replicating this research. 

@@ -1,0 +1,17 @@
+Methods
+This single-blind, randomized trial assessed a four-week telephone-based Positive Psychology (PP) intervention for acute bipolar depression patients at two sites between April 2013 and April 2016. Both sites had Institutional Review Board approval, and the study was registered on clinicaltrials.gov (NCT01820286). Participants gave informed consent before joining the study.
+
+Participants
+Adults with bipolar depression confirmed by the Mini International Neuropsychiatric Interview and other assessments were included. Exclusions were made for those showing psychotic symptoms, cognitive impairment, or a primary diagnosis of substance use.
+
+Study Procedures
+Eligible patients were identified, consented, and enrolled just before discharge. Participants were randomized to the PP or control condition (CC), receiving manuals and assignments for weekly exercises. These exercises were reviewed in weekly calls by trainers with clinical degrees and specific training in these interventions.
+
+Study Interventions
+The PP intervention involved weekly exercises aimed at enhancing positive emotions and integrating positive activities into daily life. Exercises included writing gratitude letters, using personal strengths, performing acts of kindness, and envisioning a best possible self. The CC mirrored the PP in structure but involved writing about neutral daily events.
+
+Outcomes
+Primary measures included feasibility (exercise completion rates and follow-up data provision) and acceptability (ease and utility of exercises). Psychological impacts were assessed using validated scales for hopelessness, optimism, positive affect, gratitude, and other mental health indicators. Data on suicide risk and depressive symptoms were collected through specific questionnaires.
+
+Data Analysis
+Data analyses involved descriptive statistics and mixed-effects regression models to compare outcomes between groups and over time, focusing on immediate changes and longer-term psychological impacts. Stata 14 was used for all statistical analyses, aiming for exploratory insights given the pilot nature of the study.

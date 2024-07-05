@@ -1,0 +1,27 @@
+Here is a summary of the method section of the provided clinical trial: 
+
+Method:
+
+Participants:
+The clinical trial included 1,670 students from grades 5 to 10 in Israel, aged 10-16 (mean age 12.96), from demographically similar schools. A two-stage random sampling method was employed, with blind randomization performed by an independent researcher to assign schools to the intervention or control group. The sample size was determined using G-Power software to ensure sufficient statistical power.
+
+Procedure:
+The study received ethical approval, and data was collected anonymously at three time points: before the intervention, at its end, and a year later. Both intervention and control groups followed the same procedure, with students blind to the study's purposes to minimize performance bias. The intervention group received the Positive Psychology Addiction Prevention (PPAP) program, a two-year, teacher-led curriculum covering various psychological well-being and addiction prevention topics.
+
+Intervention Program: PPAP:
+PPAP consists of 30 two-hour interactive sessions delivered every two weeks during the school year by trained teachers. It integrates addiction prevention strategies with positive psychology constructs. The program covers self-awareness, addiction resistance, normative beliefs, motivational dialogue, emotion regulation, positive emotions, character strengths, resilience, social support, healthy relationships, flow, goal setting, and meaning in life. Teacher training preceded student lessons, ensuring a consistent delivery of the program. Implementation fidelity was monitored through observations and a validated competence and adherence measure completed by teachers.
+
+Control Group:
+The control group followed the regular school curriculum and did not participate in any mental health or addiction prevention programs during the study.
+
+Measures:
+The study utilized validated instruments to assess mental health, life satisfaction, emotional well-being, screen time, and substance use: 
+
+1. Brief Symptom Inventory (BSI-18)
+2. Brief Multidimensional Students' Life Satisfaction Scale (BMSLSS)
+3. Positive and Negative Affect Schedule for Children (PANAS-C)
+4. Screen Time Scale
+5. Adolescent Alcohol and Drug Involvement Scale (AADIS)
+
+Statistical Analysis:
+Baseline characteristics were compared between groups using t-tests and chi-square tests. Mixed model growth curve analyses examined changes in outcome variables over time. Trend analysis determined linear trend models as the best fit. Demographic and school-level indicators were considered as covariates. Level 1 models analyzed growth trajectories, while Level 2 and 3 models explored the influence of demographic and school/classroom context variables. Mean differences within and between groups were assessed, and effect sizes were calculated using Cohen's d. Maximum likelihood estimation addressed missing data (<3%).

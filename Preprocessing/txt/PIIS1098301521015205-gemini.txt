@@ -1,0 +1,30 @@
+## Summary of Methods
+
+This study investigated the factors influencing women aged 50 and over to get mammograms in Santiago, Chile. Women with private insurance were chosen because claims data allowed researchers to track their behavior over time. Public insurance data lacked such details. Santiago was chosen due to its high mammography machine availability, eliminating lack of access as a potential factor.
+
+**Data Source:** 
+* Insurance claim records from all private insurance firms in Chile (covering 17% of the population)
+* Information included: any mammogram since 2007, age, copayments for mammograms, doctor visits
+
+**Sample Selection:**
+* Focused on women without a mammogram in the past 24 months, residing in Santiago, and aged 50-61 (42,233 women in June 2015).
+* Further limited to women whose address could be obtained (from 2 insurance companies willing to share data), resulting in a sample of 15,626 (37% of the private insurance market).
+* 12,000 women were randomly chosen from this group and divided into treatment and control groups.
+
+**Intervention (Treatment Group):**
+* Mailed one informative letter addressing one of the following hypothesized barriers to getting mammograms:
+    * Information avoidance: base intervention reminding women about mammograms.
+    * Procrastination: message with deadline and lottery for mammograms before that date.
+    * Fear of detection or test: message highlighting mammograms saving lives and including a doctor's photo with an "official endorsement".
+    * Complexity of scheduling a free mammogram: message with preprinted maps and directions to local clinics.
+
+**Treatment Group Design:**
+* Nested 2 x 3 x 2 x 3 x 2 block design, resulting in 8 different mailer types.
+
+**Outcome Measurement:**
+* Compared mammogram rates between treatment and control groups 5 months after the letters were mailed.
+* Statistical analyses were conducted to control for interactions between different messages and for imperfectly delivered mailers.
+
+**Ethical Approval:**
+* Written informed consent was obtained from all participants.
+* The study protocol was approved by the ethics committee of the University of Chile.

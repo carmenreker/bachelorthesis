@@ -1,0 +1,71 @@
+Here is a summary of the method section of the provided clinical trial: 
+
+Method:
+
+Study Design and Setting:
+- Randomized, parallel-group pilot and feasibility trial conducted in Detroit, Michigan, from May to December 2020. 
+- Participants randomized post-baseline assessment using computer-generated block randomization. 
+- Trial registered on clinicaltrials.gov and approved by the University of Michigan Institutional Review Board.
+
+Intervention Development:
+- "Positive STEPS" intervention adapted from the "STEPS 2" pilot, based on a successful internet CPSM intervention. 
+- Focus groups (n=16; all female and African American with chronic musculoskeletal pain) provided feedback on potential positive activities. 
+- CHWs (Community Health Workers) played a key role in refining content, reviewing materials, and providing cultural input.
+
+Intervention Description:
+- Completely remote intervention: materials mailed, sessions conducted over the phone, and online videos watched independently. 
+- 7-week program: weekly 30-min telephone sessions with CHWs and web-based videos/workbook activities on cognitive-behavioral pain management skills and positive activities.
+- Cultural adaptations included language adjustments, race-concordant presenters, and integration of cultural values like spirituality. 
+- Core pain self-management skills: Understanding Chronic Pain, SMART Goal-Setting, Staying Active, and Doing What You Love.
+- Positive activities: Life Review, Savoring, Random Acts of Kindness, Gratitude Jar, and Music as Medicine.
+
+CHW-led Component:
+- CHWs delivered the intervention after a half-day training session. 
+- Session format included reinforcing key points, discussing participants' situations, creating a "Try it Out" plan, and setting an "Active Goal" for activity increase. 
+- CHWs reviewed step counts and referred to community resources. 
+- Session information was recorded using REDCap data capture tools.
+
+Positive STEPS Website:
+- Website included CHW introductions and separate pages for each module with didactic videos and additional resources.
+
+Activity Trackers:
+- Wrist-worn activity trackers provided to participants to monitor daily step counts. 
+- Automated text messages requested step count input each evening.
+
+Control Condition:
+- Control group completed baseline and follow-up surveys with no intervention. 
+- Given access to website, workbook, and activity tracker post-study.
+
+Participants:
+Inclusion criteria:
+- Adults aged 60+, with musculoskeletal pain for ≥ 3 months, impacting daily activities. 
+- Required smartphone or means to watch online videos.
+
+Exclusion criteria:
+- Serious acute illness, hospitalization, or planned surgery. 
+- Memory difficulties interfering with daily activities.
+
+Recruitment:
+- Registry for African American older adults, community locations in Detroit, and researcher-maintained lists.
+
+Data Collection:
+- Telephone interviews at baseline and 8-week follow-up, including self-reported health, psychosocial, and demographic measures. 
+- Intervention group had additional questions about their experience.
+
+Measures:
+Primary Outcomes:
+- Pain interference and physical functioning measured using PROMIS subscales.
+
+Secondary Outcomes:
+- Participant global impression of change, pain intensity, pain self-efficacy, social participation, and resilience.
+- Health and demographic variables collected.
+
+Feasibility and Acceptability:
+- Retention, engagement (number of sessions completed), and acceptability (feedback on intervention components) assessed.
+
+Data Analysis:
+- IBM SPSS Statistics used for data analysis, including descriptive statistics and group comparisons. 
+- PROMIS subscale scores converted to T-scores.
+- Univariate analysis of variance models assessed the intervention effect on outcomes, with baseline values as covariates. 
+- Chi-squared tests compared the proportion achieving Minimally Important Difference in pain interference. 
+- Frequencies calculated for closed-ended satisfaction items, and open-ended responses categorized and tallied.

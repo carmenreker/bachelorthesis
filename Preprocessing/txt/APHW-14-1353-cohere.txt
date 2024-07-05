@@ -1,0 +1,25 @@
+Here is a summary of the methods section, retaining the original structure and relevant details for replication: 
+
+## METHODS
+
+**Participants**
+
+A total of 840 individuals registered online, with 267 (31.8%) meeting the inclusion criteria and comprising the final sample. Participants were mostly women (83%), aged 18-76 (M = 43.16, SD = 12.10), from Germany (66%), Switzerland (29%), and Austria (4%). The sample was highly educated, with 60% holding university degrees. There were no significant differences between the intervention and control conditions regarding sex, age, or education.
+
+**Instruments**
+
+- The Authentic Happiness Inventory (AHI; Seligman et al., 2005), a self-report measure of well-being with high internal consistency (α ≥ .93), was used at all measurement time points.
+
+- The Well-Being Change Beliefs Rating Scale was developed for this study to assess participants' beliefs about the malleability of well-being. It consisted of 18 items loading onto two factors: general change beliefs (12 items) and instrumental change beliefs (6 items). Both factors showed high internal consistency (α = .92).
+
+- Process questions assessed exercise completion, time invested, liking, perceived benefit, easiness, and voluntary continuation beyond the instructed period.
+
+**Procedure**
+
+The study was approved by the local ethics committee and conducted online via a dedicated website. Recruitment was through online forums, mailing lists, and press releases. Participants provided informed consent and basic demographic information before deciding on a start date. They completed a pretest (AHI and Well-Being Change Beliefs Rating Scale), were randomly assigned to one of two conditions ("three good things" or "early childhood memories"), and received instructions. They were reminded to complete the intervention daily for 1 week and post-intervention questionnaires (AHI and process questions) at weeks 1, 2, 4, and 12. Participants received feedback on their results after completion.
+
+**Data analysis**
+
+Data from the final sample only were analyzed using R and specific packages: dplyr, psych, lme4, and lmerTest. 
+
+This summary retains the critical details of the methods section while reducing the word count by approximately 30%. It provides a concise overview of the participant characteristics, instruments used, study procedure, and data analysis plan, enabling replication while being more accessible to a broader audience.

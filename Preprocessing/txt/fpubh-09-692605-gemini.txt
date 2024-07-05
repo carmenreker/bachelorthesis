@@ -1,0 +1,34 @@
+## Summary of Materials and Methods
+
+This study examined the willingness of risky drinkers to participate in an alcohol prevention intervention offered in a workplace setting. The data was collected in Norway as part of a larger project named WIRUS.
+
+**Participants and Recruitment:**
+
+* A total of 30,811 employees were invited to complete an alcohol screening survey.
+* Risky drinkers (n=800) were identified based on their AUDIT scores.
+* After excluding those with missing contact information, 779 employees were invited for a health examination by the Occupational Health Services (OHS).
+
+**Intervention:**
+
+* Employees attending the health examination were offered participation in a randomized controlled trial with three conditions:
+    * Face-to-face motivational interviewing with OHS personnel
+    * Digital self-help program
+    * Control group receiving only an alcohol information booklet
+* All participants received the information booklet.
+
+**Measures:**
+
+* Willingness to participate was defined as responding positively to the OHS invitation, attending the health examination, and consenting to randomization.
+* Sociodemographic characteristics, alcohol use, and work-related factors were measured through questionnaires.
+
+**Analysis:**
+
+* The proportion of willing participants was calculated.
+* Associations between willingness and various factors were analyzed using chi-square tests and t-tests.
+* Logistic regression was used to identify independent correlates of willingness to participate.
+
+**Ethical Considerations:**
+
+* Informed consent was obtained at all stages of the study.
+* Participants' rights to confidentiality and privacy were protected.
+░

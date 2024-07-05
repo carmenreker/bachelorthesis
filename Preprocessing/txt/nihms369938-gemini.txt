@@ -1,0 +1,43 @@
+## Summary of Infant Peer Emotion Response Study Method
+
+This summary outlines the methods used in a study investigating how infants respond to a peer's emotions towards toys.
+
+**Participants**
+
+* 23 12-month-olds (8 male)
+* 24 18-month-olds (11 male)
+* 21 24-month-olds (9 male)
+* All typically developing from a middle-class background
+* Data excludes one 12-month-old who didn't touch the toys
+
+**Procedure**
+
+* Infants participated in a short warm-up period followed by testing in a separate room.
+* They viewed pre-recorded videos of a child displaying emotions towards toys on a monitor.
+* While seated in a high chair, infants watched three 50-second trials.
+* Each trial consisted of:
+    * 5-second intro video to focus attention
+    * 20-second video of a peer displaying an emotion (neutral, positive, or negative) towards one of two novel toys
+    * 30-second play period with both toys within reach
+* A curtain obscured the experimenter who moved the toys into reach after each trial.
+* Parents sat beside the child but were instructed not to interact. 
+* A camera recorded the child's behavior throughout.
+
+**Stimuli and Materials**
+
+* Four novel toys were presented in pairs.
+* Videos showed a 6-year-old girl displaying neutral, positive, or fearful expressions towards one toy in each pair.
+* The girl used facial expressions, vocalizations, and toy descriptions to convey emotions.
+* In the first trial, all children saw the peer display neutral interest towards a toy.
+* In the second trial, half saw positive emotion (happiness) and half saw negative emotion (fear) directed towards one toy (target).
+* The other toy (distracter) received no attention from the peer.
+* Toy pairings and target toy location were counterbalanced across trials.
+
+**Measures**
+
+* Trained coders, blind to the condition, analyzed video recordings with sound muted.
+* Two main behaviors were coded:
+    * Looking time at the video display during each presentation (measured in seconds).
+    * Touch time of each toy during the play period (measured in seconds, including any holding, playing, or touching).
+* Reliability was ensured by having multiple coders analyze a subset of videos (high agreement between coders).
+* To account for variation in how quickly parents removed toys, only the first 30 seconds of play time were coded for each trial.

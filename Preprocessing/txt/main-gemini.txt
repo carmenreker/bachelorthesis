@@ -1,0 +1,46 @@
+## Summary of Method Section
+
+This study examined the effects of a two-year school-based positive psychology addiction prevention (PPAP) program on adolescents compared to a waiting-list control group.
+
+**Participants**
+
+* 1,670 students aged 10-16 (mean age 12.96) from six schools in Israel
+* Randomly assigned to intervention or control group
+* Exclusion criteria: ultra-orthodox religious schools, special education schools, non-comparable schools
+
+**Procedure**
+
+* Parental consent obtained
+* Data collected at three points: before intervention (Sep 2019), intervention end (May 2021), one year after (May 2022)
+* Students completed questionnaires on tablets in school during class time
+* Research assistants blind to group assignment collected data
+* Intervention group received the PPAP program delivered by trained teachers
+* Control group continued with regular school curriculum
+
+**Intervention Program (PPAP)**
+
+* Two-year program consisting of 30 bi-weekly lessons (2 hours each)
+* Integrated addiction prevention strategies with positive psychology concepts
+* Topics included self-awareness, addiction resistance skills, emotional regulation, positive emotions, goal setting, and substance use information
+* Delivered by teachers who received training from psychologists
+* Fidelity of implementation monitored through teacher reports and classroom observations
+
+**Control Group**
+
+* Waited for the program after the study
+
+**Measures**
+
+* Mental health symptoms (BSI-18)
+* Life satisfaction (BMSLSS)
+* Positive and negative emotions (PANAS-C)
+* Screen time (Screen Time Scale)
+* Substance use (AADIS)
+
+**Statistical Analysis**
+
+* Compared baseline characteristics between groups
+* Analyzed changes in outcomes over time using growth curve models
+* Considered demographic and school-level variables as covariates
+* Used mixed-effects models to account for nested data structure (students within schools)
+* Performed t-tests and chi-square tests for additional comparisons

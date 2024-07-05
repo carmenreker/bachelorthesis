@@ -1,0 +1,9 @@
+Here is a summary of the methods section of the provided text: 
+
+This clinical trial focuses on women aged 50 and older with private insurance in Santiago, Chile, aiming to increase mammogram rates through behavioral economic interventions. The study addresses the low rate of mammograms among Chilean women, particularly those with private insurance, and the availability of free mammogram options. 
+
+The data source is claims data from all private insurance firms in Chile, provided by the Superintendence of Health. The main dataset includes women without a recent mammogram history, totaling 42,233 women in June 2015. The sample is further limited to 2 insurance companies that shared policyholder addresses, resulting in 15,626 women. Of these, 12,000 were randomly selected and assigned to treatment and control groups. 
+
+The treatment group received a mailer with one of eight messages designed to address hypothesized barriers to obtaining mammograms: information avoidance, procrastination, affect heuristic, and structural barriers. Focus groups with Chilean women informed the message development. The mailers varied in content, including reminders, deadlines with lottery incentives, physician endorsements, and simplified directions to clinics. 
+
+Ethical approval was obtained from the University of Chile, and all participants provided informed consent. The effectiveness of the intervention was assessed through a simple comparison of means between the treatment and control groups, with additional regression analyses controlling for interactions. The study also addressed issues of imperfect compliance due to women moving.

@@ -1,0 +1,41 @@
+## Summary of Methods in SocialVille Schizophrenia Trial
+
+This study investigated the effectiveness of a web-based social cognition training program (SocialVille) for adults with schizophrenia.
+
+**Participants:**
+
+* Clinically stable adults with schizophrenia recruited from multiple US sites.
+* Diagnosed with schizophrenia (SCID-P), aged 18-65, IQ ≥ 70 (WTAR).
+* Minimally symptomatic (PANSS), no active suicidal ideation (C-SSRS).
+* Stable medication regimen for at least 6 weeks.
+
+**Study Design:**
+
+* Participants were randomly assigned to either SocialVille training or a control group playing casual computer games.
+* Allocation considered gender, education, and age for balanced groups.
+* Participants completed training at home 3-5 times/week for a total of 40 sessions.
+
+**Interventions:**
+
+* SocialVille: A web-based program with 27 exercises targeting social skills like emotion recognition and perspective-taking.
+* Control Group: Played 13 commercially available computer games with no social content.
+
+**Outcome Measures:**
+
+* Primary Outcomes:
+    * Social cognition composite score (facial emotion recognition, prosody identification, etc.).
+    * Functional capacity assessment (UCSD Performance-based Skills Assessment).
+* Secondary Outcomes:
+    * Clinical symptoms (PANSS).
+    * Functional capacity in daily activities (VRFCAT, GFS, etc.).
+    * Additional social cognition assessments (TASIT, Faux Pas test).
+    * Motivation (TEPS, BIS/BAS scales).
+
+**Data Analysis:**
+
+* Baseline group comparisons were conducted to ensure similar starting points.
+* To account for baseline differences, propensity score analysis was used to create comparable groups.
+* Changes in outcomes over time were analyzed using linear mixed-effects models.
+* Statistical significance was set at p < .025 after Bonferroni correction for multiple comparisons.
+  
+**Further details on specific assessments and statistical methods are available elsewhere [37].**

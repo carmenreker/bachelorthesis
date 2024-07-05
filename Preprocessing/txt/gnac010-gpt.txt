@@ -1,0 +1,33 @@
+Summary of Method Section for Clinical Trial in Psychology
+
+Study Design/Setting
+This research, a randomized, parallel-group pilot and feasibility trial titled Positive STEPS, was conducted in Detroit, Michigan, from May to December 2020. Participants were randomized to either the intervention or control group using a computer-generated block randomization. The trial was registered on clinicaltrials.gov (NCT04321239) and approved by the University of Michigan Institutional Review Board (HUM00162275).
+
+Intervention Development
+Positive STEPS evolved from the "STEPS 2" pilot, incorporating culturally tailored content and new positive activities identified through focus groups comprising African American women with chronic musculoskeletal pain. Key activities included Life Review, Savoring, Random Acts of Kindness, Gratitude Jar, and Music as Medicine, based on feedback from these groups.
+
+Intervention Description
+The intervention was delivered remotely over seven weeks, with participants engaging in weekly web-based videos and structured telephone sessions with Community Health Workers (CHWs). It included modules on cognitive-behavioral pain management and selected positive activities, with cultural adaptations specific to African American older adults.
+
+CHW-Led Component
+CHWs who had delivered the previous STEPS 2 intervention underwent training for the Positive STEPS content. These sessions aimed to reinforce weekly topics and help participants set and achieve SMART goals related to pain management.
+
+Positive STEPS Website and Activity Trackers
+An accompanying website provided resources and videos for each program module. Participants were also given activity trackers to monitor daily steps, which were discussed in weekly sessions with CHWs.
+
+Control Condition
+Control group participants received access to the intervention materials after completing the study, without participating in any intervention activities during the trial period.
+
+Participants
+Eligibility criteria included adults aged 60 and older with chronic musculoskeletal pain. Participants were primarily recruited through a registry at the Wayne State University Institute of Gerontology, with additional recruitment via community outreach.
+
+Data Collection and Measures
+Data collection involved baseline and 8-week follow-up telephone interviews, capturing information on health, psychosocial issues, and demographics. The primary outcomes were measured using PROMIS subscales for pain interference and physical functioning, among other health-related metrics.
+
+Feasibility and Acceptability
+The study measured retention and engagement rates, and acceptability was assessed through participant feedback on each intervention component.
+
+Data Analysis
+Data were analyzed using IBM SPSS Statistics, with descriptive statistics and inferential tests assessing intervention impacts on health outcomes. The study evaluated changes in PROMIS pain interference and other outcomes, noting participant satisfaction levels with different elements of the intervention.
+
+This summary retains critical details for replicating the research, including intervention specifics, data collection methods, and analysis approaches, essential for understanding the trial's structure and execution.

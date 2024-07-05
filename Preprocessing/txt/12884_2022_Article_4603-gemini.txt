@@ -1,0 +1,51 @@
+## Summary of the Research Method
+
+This is a controlled randomized controlled trial (RCT) designed to investigate the effectiveness of positive psychology counseling on coping with pregnancy-related nausea and vomiting (NVP) among pregnant women.
+
+**Participants:**
+
+* Pregnant women with NVP (Rhode's score of mild to moderate)
+* Gestational age: 6-10 weeks
+* Age: 18-35 years old
+* Literate with a phone number
+* Wanted pregnancy
+* Exclusion criteria: pregnancy complications, gastrointestinal disease, recent traumatic events
+
+**Sample Size:**
+
+* Calculated based on a pilot study and previous research (Mostafaei et al., 2019)
+* Total sample size = 60 (30 per group)
+
+**Randomization:**
+
+* Block randomization method with four blocks (AA, BB, AA, BB)
+* Random allocation sequence concealed in envelopes
+
+**Intervention:**
+
+* Positive psychology counseling based on Tayyab Rashid's protocol (6 sessions, 45-60 minutes each)
+* Delivered by a trained counselor following social distancing and hygiene protocols
+
+**Control Group:**
+
+* Received routine care only
+
+**Outcomes:**
+
+* Coping with pregnancy pattern (measured by Pregnancy Adjustment Questionnaire)
+
+**Data Collection:**
+
+* Sociodemographic questionnaire
+* Rhodes Nausea and Vomiting Severity Scale
+* Pregnancy Adjustment Questionnaire (measures preparation/planning, avoidance, and positive-spiritual coping)
+
+**Data Analysis:**
+
+* Statistical analysis performed using SPSS 16
+* Tests include Chi-square, t-tests, repeated measures ANOVA, and MANOVA
+
+**Further Information:**
+
+* The study was conducted from October 2020 to May 2021 in health centers of Zanjan, Iran.
+* The detail of intervention content is provided in a separate table (Table 1, not included in the summary).

@@ -1,0 +1,22 @@
+Methods Summary
+
+Ethics and Study Registration
+Ethical approvals were secured from the Institutional Review Boards at the University of Rochester and the University of Texas at Austin. All participants gave informed consent. Studies were registered on the Open Science Framework, with details available in the Supplementary Information. Pre-registration varied, with some studies registered before data analysis and others after, adhering to published operating procedures to limit researcher bias.
+
+Intervention Overview
+The intervention involved a 30-minute, self-administered online session, employing random assignment via Qualtrics. Participants and interacting individuals were blinded to condition assignments, ensuring a double-blind design. The intervention content aimed to shift participants from a fixed to a growth mindset regarding stress, using established educational methods and neuroscientific analogies. Control interventions mimicked the format without promoting mindset malleability.
+
+Synergistic Mindsets Intervention
+The intervention addressed fixed mindsets by promoting the perception of stressful events as controllable and beneficial, countering the belief in static intellectual ability. It juxtaposed this with the idea that stress can enhance performance, framing physiological stress responses as supportive rather than detrimental. The content was reinforced through stories, expressive writing tasks, and engagement with scientific research.
+
+Control Group Content
+The control condition also lasted about 30 minutes online, using similar aesthetics to the intervention group but lacked claims about intelligence malleability or stress controllability.
+
+Study Designs and Participants
+Studies varied in setting, from school environments to online platforms, involving diverse participant groups from adolescents to university students. Measures included physiological responses, mindset appraisals, and academic outcomes. Sample sizes were determined based on anticipated effect sizes, with adjustments for data collection constraints like the COVID-19 pandemic.
+
+Analysis Strategy
+The studies employed intention-to-treat analyses with Bayesian causal forests, assessing treatment effects without re-fitting models excessively. This method utilized conservative assumptions to enhance the reliability of findings. Traditional linear models and Bayesian approaches provided estimates of treatment impacts on various outcomes, including physiological stress responses and academic performance.
+
+Acknowledgements and Data Availability
+The research received support from various institutions and funders, including the National Institutes of Health and the National Science Foundation. Data and analysis code are accessible on the Open Science Framework. Contributions from numerous researchers and institutions facilitated the extensive data collection and analysis efforts.

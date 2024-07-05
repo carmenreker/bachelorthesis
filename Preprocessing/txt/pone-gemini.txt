@@ -1,0 +1,26 @@
+## Summary of Study Methods in the My World Survey (MWS-SL)
+
+This summary details the methods used in the My World Survey (MWS-SL), a cross-sectional study that examined risk and protective factors for mental health in adolescents.
+
+**Participants:**
+
+* 6,062 adolescents aged 12-19 years from 72 randomly selected schools in Ireland.
+* Data collection occurred between February and October 2011 with informed consent from participants and guardians.
+
+**Measures:**
+
+* Self-report questionnaires assessed risk and protective factors categorized into domains like Family, Peer, and School.
+* Alcohol, tobacco, and cannabis use were measured to account for potential substance use influences.
+
+**Machine Learning Analysis:**
+
+* Logistic regression with Elastic Net regularization was used to identify the most relevant factors associated with alcohol use (never vs. ever or risky use).
+* Model performance was assessed using AROC (accuracy) and F1 score (precision and recall balance).
+
+**Data Processing:**
+
+* Incomplete surveys and data missing on key variables were excluded.
+* Multiple imputation addressed remaining missing data points.
+* Compared to the full sample, the final analysis group had a slightly higher average age and differed in gender and ethnicity composition.
+
+**Further details on specific measures and procedures are available in a separate file (S1 File).**

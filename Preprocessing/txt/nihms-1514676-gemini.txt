@@ -1,0 +1,21 @@
+This is a summary of the methods section of a scientific clinical trial in the field of psychology. The study investigated the effects of a telephone-based positive psychology (PP) intervention for patients with bipolar disorder who were experiencing an acute depressive episode.
+
+Participants were adults admitted to an inpatient psychiatric unit with a diagnosis of bipolar depression. Bipolar depression diagnosis was confirmed using a standardized interview (MINI) and review of medical records. Participants were excluded if they exhibited psychotic symptoms, cognitive impairment, or had a substance use disorder.
+
+The study was a single-blind, two-site randomized trial. Participants were randomized to either the PP intervention or a control condition (CC). The PP intervention consisted of four weekly telephone exercises designed to increase participants' positive emotions and optimism. The CC intervention involved recalling and writing about neutral events.
+
+The primary outcome of the study was feasibility, measured by the number of PP exercises completed by participants and the proportion of participants who provided follow-up data. Secondary outcomes included the impact of the intervention on hopelessness, optimism, positive affect, gratitude, and depressive symptoms.
+
+Here is a table summarizing the outcome measures used in the study:
+
+| Outcome | Measure | Description |
+|---|---|---|
+| Feasibility | Number of PP exercises completed | The number of weekly telephone exercises that participants completed |
+| Feasibility | Proportion of participants who provided follow-up data | The percentage of participants who completed follow-up assessments |
+| Hopelessness | Beck Hopelessness Scale (BHS) | A 20-item self-report measure of hopelessness |
+| Optimism | Life Orientation Test-Revised (LOT-R) | A 6-item self-report measure of optimism |
+| Positive affect | Positive Affect Schedule (PANAS) | A 10-item self-report measure of positive affect |
+| Gratitude | Gratitude Questionnaire-6 (GQ-6) | A 6-item self-report measure of gratitude |
+| Depression | Quick Inventory of Depressive Symptomatology, Self-Report (QIDS-SR) | A 16-item self-report measure of depressive symptoms |
+
+░

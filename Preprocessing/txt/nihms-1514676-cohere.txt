@@ -1,0 +1,9 @@
+Here is a summary of the methods section of the clinical trial: 
+
+This single-blind, two-site randomized controlled trial evaluated a four-week, telephone-based positive psychology (PP) intervention for patients with acute bipolar depression. The trial was conducted in inpatient psychiatric units at two hospitals with institutional review board approval and informed consent from participants. Adults admitted with bipolar depression, confirmed using the Mini International Neuropsychiatric Interview, were included, excluding those with psychosis or cognitive impairment. 
+
+Study procedures involved identifying eligible participants, obtaining consent, and randomizing them to PP or a control condition (CC) before discharge. Both groups received a manual and weekly phone calls with a study trainer to review and assign exercises. The PP intervention focused on increasing positive emotions and included gratitude letter writing, using personal strengths, performing acts of kindness, and imagining a best possible self. The CC group recalled neutral daily events. 
+
+Feasibility, the primary outcome, was measured by the number of completed PP exercises and follow-up data provision. Acceptability was assessed through ease and utility ratings for PP exercises. Immediate impacts on hopelessness and optimism were examined through pre-post exercise ratings. Additional outcomes included positive psychological constructs like optimism, positive affect, and gratitude, and suicide risk factors such as hopelessness, suicidal ideation, and depression. 
+
+Data analysis included descriptive statistics, paired t-tests, and mixed effects regression models to compare between-group differences, with effect sizes calculated to determine future sample sizes. This pilot study aimed to assess the feasibility and preliminary impact of the PP intervention, providing a foundation for future larger-scale trials.

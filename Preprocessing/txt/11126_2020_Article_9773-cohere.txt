@@ -1,0 +1,26 @@
+Here is a summary of the methods section of the provided clinical trial:
+
+Methods:
+
+Patient Selection:
+- The study included patients aged 18-65 with a schizophrenia diagnosis (ICD-10: F20.X) who required treatment changes due to insufficient response or medication intolerance.
+- Exclusion criteria included hypersensitivity to study drugs, acute suicidality, and significant somatic diseases interacting with treatment. Cannabis abuse was not a criterion for exclusion.
+- A total of 136 patients with schizophrenia were registered for the NeSSy trial, a multicenter, randomized, double-blind study conducted at 14 German psychiatric centers.
+
+Study Design:
+- The double-blind, double-dummy, randomized study was conducted at 14 German psychiatric universities and state hospitals, with ethical approval and in accordance with the Declaration of Helsinki and GCP guidelines.
+- Patients were randomized into two intervention groups: one treated with first-generation antipsychotics (FGA) and the other with second-generation antipsychotics (SGA).
+- The FGA group received haloperidol or flupentixol, while the SGA group received aripiprazole, olanzapine, or quetiapine.
+- Treatments lasted 24 weeks or until adverse events occurred. Follow-up services were offered post-treatment.
+
+Psychometric Assessments:
+- The Personal and Social Performance (PSP) scale, developed by Morosini et al., assesses four dimensions: socially useful activities, personal and social relationships, self-care, and disturbing/aggressive behavior. 
+- The PSP offers advantages over traditional scales like GAF and SOFAS by separately evaluating psychopathological symptoms and psychosocial aspects, enhancing specificity and validity. 
+- Additional scales included SF-36, CGI-S, CGI-I for sexual dysfunction, SWN-K, PANSS, Mini-ICF-APP, and Mini-ICF-Rating for mental disorders. Cognitive assessments were also conducted using TMT, RWT, BZT, VLMT, and MWT-B.
+- Assessments were made at baseline, 6 weeks (visit 4), and 24 weeks (visit 6), with primary endpoints and safety parameters assessed at 2, 4, and 12 weeks as well.
+
+Statistical Analysis:
+- Analysis was performed on the full analysis set (FAS) of randomized patients who received at least one dose of the study drug.
+- Primary efficacy analysis focused on AUC values of SF36 and CGI, with missing values imputed by LOCF and linear interpolation. 
+- Secondary tests were exploratory, and correlations were computed using Pearson or Spearman approaches, depending on scale properties. 
+- SAS® version 9.4 was used for statistical analysis.

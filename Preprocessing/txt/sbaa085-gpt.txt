@@ -1,0 +1,16 @@
+Methods Summary
+
+Participants Recruitment and Criteria
+Adults with schizophrenia were recruited from five different institutions: San Francisco VA Medical Center, University of Minnesota, University of California, Los Angeles, Los Angeles VA Hospital, and Rush University. Eligibility included: DSM-V diagnosis, 18-65 years of age, IQ ≥ 70 (Wechsler Test of Adult Reading), clinical stability for 8 weeks, mild-to-moderate symptoms (Positive and Negative Syndrome Scale ≤4), no acute suicidal plans (Columbia-Suicide Severity Rating Scale), and stable on up to 2 antipsychotics or other psychotropic drugs for 6 weeks.
+
+Study Design and Consent
+Following ethical approval and consent via informed consent forms, participants underwent baseline assessments before being randomly assigned to either the SocialVille or active control group, using gender, education, and age for stratification. Randomization employed a 1:1 allocation ratio with a minimization method to balance group sizes.
+
+Intervention Details
+Participants received a laptop to undertake training from home 3-5 times per week. The SocialVille program, which consists of 27 exercises, targets various aspects of social cognition like perception of social cues and empathy. The control group engaged in commercially available computer games lacking social content, ensuring blinding and controlling for placebo effects.
+
+Outcome Measures
+Primary outcomes were assessed using a co-primary approach: a social cognition (SC) composite and a functional capacity measure. The SC composite included tests like the Penn Emotional Recognition and Prosody Identification Tests. Functional capacity was measured using the UCSD Performance-based Skills Assessment. Secondary outcomes included symptom severity (Positive and Negative Syndrome Scale), functioning (Global Functioning Scale, Social Functioning Scale), and additional SC measures (Morphed Faces Task, Faux Pas Recognition Test).
+
+Data Analysis
+Primary analysis involved comparing baseline measures between groups, using Mann-Whitney U and Pearson chi-square tests. Outcome scores were normalized to Z-scores. A linear mixed-effects model was applied to assess group differences over time, with a Bonferroni correction setting significance at .025. Data handling included a full information maximum likelihood approach, assuming missing data were random.

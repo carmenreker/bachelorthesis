@@ -1,0 +1,25 @@
+Method
+
+
+Participants and Procedures
+Detailed information about participants and procedures are described elsewhere (reporting the primary outcomes of the study; Moieni et al., 2020), as well as in the Supplementary Material, but are also summarized here. In brief, participants were healthy women aged 60 and older screened for feeling low in current generative achievement relative to their generative desire (Gruenewald et al., 2016).
+All participants (n = 78 females) were randomized into either a 6-week generativity or control writing condition and were told that the study was investigating the relationship between writing about experiences and health. As described previously (Moieni et al., 2020) and the Supplementary Material, 5 participants did not complete the study, leaving a total final sample of 73 female participants (mean age 70.9 ± 6.5 years; 80.8% white; 35 in the control condition, 38 in the generativity condition). The sample size was determined for the primary aims of the study (Moieni et al., 2020); further details are available in the Supplementary Material.
+Participants in the generativity condition wrote weekly about their life experiences and shared their wisdom and advice (for middle-aged adults) in response to topics such as: "What are some of the most important lessons you feel you have learned over the course of your life? If a middle-aged person asked you "what have you learned in your ____ years in this world," what would you tell him or her?...." In order to provide an audience for participants' generative action, participants in the generativity condition were informed that their responses would be collected, made anonymous, and published into a book or website intended to help middle-aged adults. For the full listing of the prompts, see Supplementary Material.
+Participants in the control condition were not told that their writings would be shared and wrote about neutral topics such as: "In the space provided below, please describe what you had for lunch today-what it looked like, how it tasted…. In your writing, please try to focus on the details of what you ate, how it looked, and how it tasted, rather than on who you were with or what you were thinking about during this time…."
+All participants provided written consent. All procedures were approved by the UCLA Human Subjects Protection Committee (IRB#14-000811). The general design, as well as the primary outcomes, of the study (Moieni et al., 2020), was registered with ClinicalTrials.gov (NCT02472379). The secondary analyses presented here were not preregistered.
+
+Self-report Measures
+
+
+ERA Survey
+The ERA Survey (Mental Health Domain), measured at preintervention, is a valid, reliable (α = .64) scale to assess participants' beliefs about mental health as a function of age (Sarkisian, Steers, Hays, & Mangione, 2005).1 Participants were presented with four statements regarding beliefs about aging and mental health, including two items relevant to the social domain (e.g., "being lonely is just something that happens when people get old"; all four items in Supplementary Material).
+
+Social Provisions Scale
+The Social Provisions Scale, measured pre-and postintervention, is a valid, reliable (α = .90) scale to assess multiple domains of PSS, such as feelings of attachment and social integration (Cutrona, 1984;Cutrona & Russell, 1987; e.g., "I feel a strong emotional bond with at least one other person").
+
+UCLA Loneliness Scale
+The UCLA Loneliness Scale, measured pre-and postintervention, is a valid, reliable (α = .92) scale to assess loneliness (Russell, 1996) (e.g., "how often do you feel alone?"). Loneliness and perceptions of social support were significantly correlated with each other (at preintervention, r = -.71, p < .001) but represent distinct constructs with separate, rich literatures and thus were both examined as social well-being outcomes.
+
+General Analytic Strategy
+In order to test the moderating effect of ERA on PSS and loneliness, the PROCESS macro for SPSS was used (Hayes, 2012). To examine whether ERA moderated the effect of the intervention on PSS and loneliness, we tested the interaction of condition (generativity vs control) and ERA on PSS and loneliness postintervention, controlling for preintervention values.
+

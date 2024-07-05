@@ -1,0 +1,28 @@
+## Summary of the Methods Section
+
+This study examined the effectiveness of a family-based intervention (FAMI) compared to an adolescent-only intervention (HPI) in reducing substance use and emotional problems in adolescents with a history of substance use.
+
+**Participants**
+
+* Adolescents and parents were recruited from a juvenile drug court program.
+* 60 families were enrolled and randomized to either FAMI or HPI.
+* Adolescents reported current substance use but not necessarily drug-related offenses.
+
+**Interventions**
+
+* FAMI aimed to improve emotion regulation and motivation for adolescents and parents, focusing on behavior change. It included four bi-weekly sessions and one booster session.
+* HPI provided psychoeducation on substance use, HIV prevention, and healthy behaviors. It matched FAMI in terms of time commitment.
+
+**Measures**
+
+* Parent distress was assessed using a self-report inventory (SCL-90-R).
+* Adolescent substance use (marijuana and alcohol use days) and risky sexual behavior (number of acts) were self-reported during the past 90 days.
+* Adolescent mental health (internalizing and externalizing problems) was assessed using a self-report measure (YSR).
+
+**Data Analysis**
+
+* Analyses considered intervention condition, baseline parent distress, and their interaction to predict outcomes at post-intervention.
+* Different statistical models were used for different types of outcomes (dichotomous vs. count data).
+* Missing data was addressed using imputation techniques.
+
+This summary captures the key elements of the methods section: participant recruitment, intervention details, outcome measures, and data analysis plan. It provides enough information for someone to understand the overall research design and how the data was collected and analyzed. 

@@ -1,0 +1,21 @@
+This summary aims to succinctly represent the materials and methods section of a clinical trial focusing on alcohol prevention interventions in the workplace, maintaining essential details for replication:
+
+Design, Setting, and Procedure
+The study was conducted as a prospective process evaluation within the WIRUS project, involving 779 employees from 22 large Norwegian companies. Utilizing the RE-AIM framework, the study commenced with a digital alcohol screening survey. Employees identified as risky drinkers were invited to a health examination and subsequently randomized into either an intervention or control group, contingent on their consent.
+
+Data Collection and Sample
+In collaboration with KoRus Stavanger and the University of Stavanger, companies were selected across diverse sectors and regions, encompassing 30,811 employees, with 8,542 consenting to participate. Screening identified 800 risky drinkers using the AUDIT, though 21 were excluded due to insufficient contact information, leaving 779 participants. The health examination and further recruitment processes, including follow-up invitations, were detailed.
+
+Measures
+Sociodemographic, alcohol-related, work-related, and lifestyle variables were assessed for their correlation with the willingness to participate in alcohol prevention measures. The included variables are detailed in accompanying tables.
+
+Interventions
+The interventions included a face-to-face motivational interviewing session, an eHealth program comprising 62 online sessions, and a control group receiving only informational material. Each intervention aimed at reducing alcohol-related risks and was presented post-health examination.
+
+Analysis
+Initial unadjusted analyses and subsequent adjusted logistic regression determined the correlates of participation willingness. Analysis was performed using IBM SPSS software, focusing on significant predictors (p < 0.05).
+
+Ethics
+The study adhered to ethical guidelines from the Declaration of Helsinki, with informed consent obtained at multiple stages. The Regional Committee for Medical and Health Research Ethics in Norway approved the study.
+
+This summary retains the structured, detailed essence required for replicating the study while condensing the key elements of the methodology.

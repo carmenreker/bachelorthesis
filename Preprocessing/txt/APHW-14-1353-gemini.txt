@@ -1,0 +1,31 @@
+## Summary of Methods Section
+
+This study examined the effects of a web-based intervention on well-being and change beliefs.
+
+**Participants:**
+
+* A total of 267 participants (out of 840 registered) completed the study (31.8%).
+* Most participants were women (83%) aged 18 to 76 from Germany (66%), Switzerland (29%), and Austria (4%).
+* They were well-educated with a university degree (60%) or diploma (19%).
+* Groups were balanced on demographics and baseline measures.
+
+**Instruments:**
+
+* Well-being was measured using the Authentic Happiness Inventory (AHI).
+* A new Well-Being Change Beliefs Rating Scale was developed to assess general and instrumental change beliefs about well-being. 
+* The scale showed good internal consistency and positive correlations with well-being.
+* Process questions assessed exercise completion, time invested, liking, perceived benefit, easiness, and continuation.
+
+**Procedure:**
+
+* The study was approved by an ethics committee and advertised online.
+* Participants were unaware of the two conditions (three good things or early childhood memories).
+* After informed consent, demographics, and pretests, participants were randomly assigned to a condition and received exercise instructions for one week.
+* Follow-up surveys were administered at weeks 2, 4, and 12.
+* As a reward, participants received automated feedback on their results.
+
+**Data Analysis:**
+
+* Data from participants who completed all measures were analyzed (final sample = 267).
+* R software was used for statistical analyses.
+░

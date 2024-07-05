@@ -1,0 +1,25 @@
+## Summary of Method Section
+
+This summary focuses on participants, procedures, and self-report measures used in the study.
+
+**Participants:**
+
+* Healthy women aged 60 and older, feeling low in generative achievement (n=78).
+* Randomized into generativity (n=38) and control conditions (n=35).
+* Final sample size: 73 women (average age 70.9 years).
+
+**Procedures:**
+
+* The study investigated the effects of writing on experiences and health.
+* All participants wrote for 6 weeks.
+* Generativity condition: Participants wrote about life experiences and shared wisdom for middle-aged adults. Their writings were promised to be anonymously published to help this age group.
+* Control condition: Participants wrote about neutral topics like lunch details. Their writings were not for sharing.
+* All procedures were approved by an ethics committee and the study was registered.
+
+**Self-report Measures:**
+
+* ERA Survey (Mental Health Domain): Measured beliefs about aging and mental health (pre-intervention).
+* Social Provisions Scale: Assessed feelings of attachment and social integration (pre- and post-intervention).
+* UCLA Loneliness Scale: Measured loneliness (pre- and post-intervention).
+
+These measures were used to analyze the moderating effect of beliefs about aging on social well-being outcomes.

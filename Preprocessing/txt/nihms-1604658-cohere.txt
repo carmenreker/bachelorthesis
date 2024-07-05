@@ -1,0 +1,27 @@
+Here is a summary of the provided text: 
+
+Method:
+
+Participant Recruitment and Characteristics:
+- Parent-adolescent pairs (dyads) were recruited from a juvenile drug court (JDC) diversion program in the northeastern US, totaling 47 families included in the study out of 283 referred. 
+- Adolescents had active substance use but varied in terms of criminal charges.
+- The study interventions were assigned randomly to the dyads: Family-Based Affect Management Intervention (FAMI) or adolescent-only Health Promotion Intervention (HPI).
+
+Interventions:
+- FAMI aimed to prevent substance use and HIV by improving emotion regulation and motivation in adolescents and building parental support skills over four primary sessions and one "booster" session.
+- HPI provided psychoeducation on substance use, HIV prevention, and health-related topics and was matched to FAMI in terms of time and appeal.
+
+Measures and Data Collection:
+- Measures were taken at baseline and 3 months post-intervention using Audio Computer Assisted Self-Interview (ACASI).
+- Parent distress was assessed using the Symptom Checklist-90-Revised (SCL-90-R), specifically the Global Severity Index (GSI) as an indicator of overall psychological distress.
+- Adolescent substance use and sexual risk behaviors were evaluated using the Adolescent Risk Behavior Assessment (ARBA), focusing on marijuana and alcohol use days and unprotected sexual acts.
+- Adolescent mental health was assessed through the Youth Self-Report (YSR), analyzing internalizing and externalizing problem scales.
+
+Data Analysis:
+- Analyzed outcomes at post-intervention, considering intervention condition, baseline parent distress, and their interaction, with baseline levels of outcomes as covariates.
+- Modeled dichotomous and count variables for substance use and RSB outcomes and used logistic regression and generalized linear models, respectively.
+- Utilized linear regression for mental health outcomes.
+- Employed the Johnson-Neyman technique to probe significant interactions and identify the region of significance.
+- Handled missing data by imputing baseline values and excluding incomplete assessments.
+
+The provided text has been summarized while retaining the essential details about the methods used in the clinical trial. This summary provides a concise overview of the participant recruitment, interventions, measures, and data analysis techniques employed in the study.
