@@ -25,7 +25,7 @@ pip install -r requirements.txt
 Method sections are extracted from the files in the preprocessing/pdf directory using `pdf_parser.py`. This code uses SciPDF, which is based on GROBID, of which a Docker container should be active before running the Python script. Read the documentation at https://github.com/titipata/scipdf_parser .  
 
 ## 2. Generating the summaries
-We use the Phi-3-Mini-128K-Instruct model to generate the summaries. `phi3_prompting` is run with the following command:
+We use the Phi-3-Mini-128K-Instruct model to generate the summaries. `phi3_prompting.py` is run with the following command:
 
 ```
 python3 phi3_prompting.py example_directory file_name
