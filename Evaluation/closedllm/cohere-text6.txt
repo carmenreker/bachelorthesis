@@ -1,0 +1,13 @@
+Here is a summary of the materials and methods used in the clinical trial: 
+
+This prospective study was conducted as part of a process evaluation for the WIRUS project, a randomized controlled trial in Norway, with 779 employees from 22 large companies. The process evaluation utilized the RE-AIM framework, focusing on the "reach" category. OHS personnel administered a standardized questionnaire. The study design involved inviting employees to a digital alcohol screening survey, followed by a health examination for those identified as risky drinkers. Risky drinkers were then randomized into intervention or control groups. 
+
+For data collection, companies were recruited through three OHS organizations, with 22 companies providing employee email addresses. The alcohol screening survey was distributed to 30,811 employees, with a 27.7% response rate. Risky drinkers were identified using the AUDIT, resulting in 779 eligible participants. These individuals were invited to a general health examination and informed about the potential alcohol prevention interventions. The interventions included face-to-face motivational interviewing, an eHealth program, or an alcohol information booklet (control). 
+
+Inclusion criteria were age 16-72, employee status, affiliation with a company served by an OHS unit in the WIRUS project, basic Norwegian language proficiency, and a score of eight or higher on the AUDIT. Data collection took place between 2014 and 2020. The mean age of participants was 40.3 years, with a balanced gender distribution and a majority having a university/college education. 
+
+The study analyzed willingness to participate in alcohol prevention interventions and its potential correlates. Employees' willingness was coded as either willing or unwilling, based on their response to the OHS invitation, attendance at the health examination, and agreement to randomization. Sociodemographic, alcohol-related, work-related, and lifestyle/daily activity variables were included as potential correlates. 
+
+The analysis assessed the proportion of risky drinkers willing to participate and used binary logistic regression to identify correlates associated with willingness. Unadjusted and adjusted analyses were performed, with significance set at p < 0.05. 
+
+The study adhered to ethical guidelines, including the World Medical Association's Declaration of Helsinki, ensuring participants' rights and confidentiality. Informed consent was obtained, and the study was approved by the Regional Committee for Medical and Health Research in Norway.

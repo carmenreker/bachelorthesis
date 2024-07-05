@@ -1,0 +1,40 @@
+## Summary of Methods Section in a Mindfulness Intervention Study on Students
+
+This summary focuses on the recruitment process, intervention details, and outcome measures used in a randomized controlled trial examining the effects of mindfulness training on medical and psychology students.
+
+**Participants and Recruitment**
+
+* Second or third-year medical and psychology students from the University of Oslo and Tromsø were invited in 2009 and 2010.
+* Students were informed during classes and invited via email to a website for more details and online signup.
+* No mental health screening was performed because the program aimed at stress management and health promotion.
+* Sample size was determined based on anticipated reductions in mental distress and medical school stress.
+
+**Procedures**
+
+* Randomization to intervention or control group was done electronically after baseline questionnaires (T1).
+* The intervention group received a seven-week mindfulness-based stress reduction (MBSR) program. 
+* The control group received no intervention.
+* Questionnaires were completed again after the intervention (T2) with email reminders to encourage participation.
+* Participants were compensated for their time with book vouchers.
+
+**Description of the Intervention**
+
+* The MBSR program was modified based on student input to reduce the time commitment. 
+* It included mindfulness exercises, didactic teaching on stress and mindfulness, and group discussions.
+* Instructors were qualified MBSR trainers with extensive mindfulness practice experience.
+
+**Measures**
+
+* Questionnaires assessed demographics, mental distress, student burnout, study stress, subjective well-being, and mindfulness. 
+* Mental distress was measured using the GHQ12.
+* Student burnout was assessed using a modified Maslach Burnout Inventory (MBI).
+* Perceived Medical School Stress (PMSS) scale was used to measure study stress.
+* Subjective well-being (SWB) was assessed using a 4-item scale.
+* The Five Facet Mindfulness Questionnaire (FFMQ) was used to measure mindfulness.
+* Student compliance with the program was monitored through attendance and self-reported practice of mindfulness exercises.
+
+**Statistical Analyses**
+
+* Statistical methods were employed to assess the effectiveness of randomization, group differences at baseline, and intervention effects on various outcomes.
+* Analyses considered factors like missing data and student gender.
+* Effect sizes were calculated using Hedges' g and the Number Needed to Treat (NNT) was estimated for mental distress.

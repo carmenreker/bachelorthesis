@@ -1,0 +1,15 @@
+METHODS
+
+Participants
+The study began with 840 online registrations, with 267 participants (31.8%) meeting the inclusion criteria for the final sample. These criteria included being at least 18 years old, abstaining from illegal drugs, not receiving psychotherapeutic or psychopharmacologic treatment, and completing all assigned tasks and measurements. The final participant group, predominantly women (83%) aged between 18 and 76 (average age 43.16, SD = 12.10), was highly educated and primarily from Germany (66%), Switzerland (29%), and Austria (4%). No significant differences were found between intervention and control groups concerning demographic or belief variables. The sample size met the requirements suggested by power analysis to detect a small effect with adequate power.
+
+Instruments
+The study utilized the Authentic Happiness Inventory (AHI) for well-being assessment, showing high reliability and validity. A newly developed Well-Being Change Beliefs Rating Scale evaluated participants' beliefs in the malleability of their well-being, consisting of items rated on a 1-10 Likert-style scale. Statistical analysis supported a two-factor model from this scale, encompassing general and instrumental change beliefs, explaining 60% of the variance. Both factors showed high internal consistency and significant correlations with well-being measures.
+
+Process
+Participants were queried post-intervention on various aspects such as completion, effort, enjoyment, perceived benefit, and ease of the exercises. The study protocol was approved by the local ethics committee and was conducted online, with participants recruited through various online platforms and unaware of the condition assignments until after registration. Follow-up assessments were conducted at 2, 4, and 12 weeks post-intervention.
+
+Data Analysis
+Data from participants who completed all aspects of the study were analyzed using R and several packages for statistical computing, ensuring robust data handling and analysis.
+
+This summary retains the essential structure and details from the original method section, necessary for replicating the research.

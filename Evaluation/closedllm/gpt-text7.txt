@@ -1,0 +1,14 @@
+Method
+
+Participants and Procedures
+This clinical trial included 78 healthy women aged 60 and older, who felt low in generative achievement relative to their desire, and were randomized into a generativity or control writing condition for 6 weeks. The study aimed to explore the effects of writing about personal experiences on health. Five participants dropped out, resulting in 73 final participants with an average age of 70.9 years. Participants in the generativity condition wrote weekly about their life experiences and wisdom for middle-aged adults, with the intention of publishing these writings to benefit others. Those in the control group wrote about neutral topics like their daily meals, focusing on sensory details. All procedures were IRB approved (UCLA Human Subjects Protection Committee, IRB#14-000811) and registered with ClinicalTrials.gov (NCT02472379).
+
+Self-report Measures
+Several validated scales were used:
+
+    The ERA Survey (Mental Health Domain), measured preintervention, assessed beliefs about mental health and aging with a reliability of α = .64.
+    The Social Provisions Scale, evaluated both pre- and post-intervention, with a reliability of α = .90, examined feelings of attachment and social integration.
+    The UCLA Loneliness Scale, also measured pre- and post-intervention, with a reliability of α = .92, assessed levels of loneliness. There was a significant negative correlation between loneliness and perceived social support at preintervention.
+
+General Analytic Strategy
+The study utilized the PROCESS macro for SPSS to test the moderating effect of ERA on PSS and loneliness outcomes. Specifically, it investigated whether ERA influenced the impact of the writing interventions on PSS and loneliness after the intervention, while controlling for baseline levels.

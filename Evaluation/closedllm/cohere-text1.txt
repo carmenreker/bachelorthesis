@@ -1,0 +1,21 @@
+Here is a summary of the methods section of the provided text: 
+
+This randomized controlled trial evaluated the effectiveness of a mindfulness-based stress reduction (MBSR) program for medical and psychology students at two Norwegian universities. The study aimed to assess the impact of the intervention on mental distress, student burnout, study stress, subjective well-being, and mindfulness. 
+
+**Participants and Recruitment:**
+Medical and psychology students in their second or third term at the University of Oslo and the University of Tromsø were invited to participate through class announcements and emails. Informed consent was obtained electronically, followed by an online baseline questionnaire (T1). No exclusion criteria were applied. The sample size calculation indicated a need for 60-100 participants per group, considering an expected 20% reduction in mental distress and perceived stress. 
+
+**Procedures:**
+Participants completed the T1 questionnaire and were then randomly assigned to the intervention or control group using a computer program, separately for each class. They were informed of their group allocation two weeks before the intervention. Within two weeks after the intervention, participants completed a second questionnaire (T2) with up to three email reminders. Participants' identities were replaced with ID numbers to ensure anonymity. Participants received book vouchers as compensation for their time. The study was approved by ethical and data committees. 
+
+**Description of the Intervention:**
+The MBSR program was adapted from Kabat-Zinn's protocol and consisted of six weekly sessions of 1.5 hours, a 6-hour session in week seven, and 30 minutes of daily home mindfulness practice. The program included physical and mental exercises, didactic teaching, and group reflections. The focus was on cultivating mindfulness and a non-judgmental attitude. 
+
+**Instructor Qualifications and Compliance:**
+Instructors were trained in MBSR and had practiced mindfulness for years. They ensured program fidelity by consulting each other after each class. 
+
+**Measures:**
+In addition to demographic information, the following validated questionnaires were used: GHQ12 for mental distress, MBI for student burnout, PMSS for study stress, SWB scale for subjective well-being, FFMQ for mindfulness, and attendance and self-reported home practice for student compliance. 
+
+**Statistical Analyses:**
+Randomization success was evaluated using independent sample t-tests and chi-square tests. Missing data were addressed using the last-observation-carried-forward method. Multivariate and univariate analyses of covariance (MANCOVA and ANCOVA) were applied to assess the intervention's effect on the outcome variables, controlling for baseline measurements and gender. Linear regression analyzed the relationship between MBSR attendance, mindfulness practice, and outcomes. Multilevel mixed linear regression examined the influence of student class and university location. Hedges' g calculated the treatment effect size, and the Number Needed to Treat (NNT) assessed clinical importance.

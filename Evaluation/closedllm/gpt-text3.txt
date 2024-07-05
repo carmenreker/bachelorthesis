@@ -1,0 +1,22 @@
+Method
+
+Design of Study and Setting
+This controlled randomized trial was conducted from October 2020 to May 2021 in ten randomly selected comprehensive health centers in Zanjan, Iran. The study involved pregnant women with nausea and vomiting of pregnancy (NVP) registered at these centers. Women were identified via a national electronic identification system and screened for eligibility; if unresponsive after two calls, their number was replaced.
+
+Participants
+Eligible women had a Rhode's score indicating mild to moderate NVP severity, were 18-35 years old, literate, and at 6-10 weeks gestation. Exclusion criteria included pregnancy complications, gastrointestinal diseases, and recent traumatic events. The pilot study, adjusting for a 95% confidence level and 80% power, set the final sample size at 30 participants per group, considering a 10% dropout rate.
+
+Sampling Method
+From 150 assessed participants, 60 met the eligibility criteria. Participants were divided into intervention and control groups using a randomized four-block method, where sequences were documented and securely randomized via numbered envelopes.
+
+Intervention
+The intervention group received six sessions of individual supportive counselling based on positive psychology, thrice weekly, observing COVID-19 safety protocols. Counselling aimed at enhancing coping with NVP and was conducted by a trained psychologist. The control group received standard care only.
+
+Outcomes
+Outcomes were assessed through changes in coping patterns with pregnancy, measured before the intervention and four weeks post-intervention.
+
+Data Collection Tools
+Data were collected using the Rhodes Nausea and Vomiting Severity Scale and a demographic and midwifery questionnaire. Coping was assessed using a validated Persian adaptation of Hamilton and Lobe's questionnaire, covering preparation, avoidance, and positive-spiritual coping.
+
+Data Analysis
+Data were analyzed using SPSS 16, employing Chi-square and independent t-tests for qualitative and quantitative variables, respectively. The normality of data was confirmed, and the effect of the intervention was tested using repeated measure ANOVA and MANOVA, controlling for variables like the number of pregnancies. A significance level of p > 0.05 was used to determine statistical significance, with an effect size below 0.3 indicating a small effect.

@@ -1,0 +1,36 @@
+## Summary of Methods Section in a Schizophrenia Treatment Study
+
+This section describes a randomized clinical trial designed to compare the effectiveness of two treatment strategies for schizophrenia: typical and atypical antipsychotics.
+
+**Patients:**
+
+* Included: diagnosed with schizophrenia (ICD-10: F20.X), aged 18-65, requiring treatment initiation or change due to insufficient response or intolerability to previous medication.
+* Excluded: known hypersensitivity to study drugs, acute suicidality, involuntary treatment, significant somatic diseases.
+* Total: 149 patients recruited, 136 analyzed (13 dropped out before drug administration).
+
+**Study Design:**
+
+* Multicenter, double-blind, double-dummy, randomized trial at 14 German psychiatric hospitals.
+* Patients randomized into two groups: one receiving a typical antipsychotic (FGA) and the other receiving an atypical antipsychotic (SGA).
+* Treatment duration: 24 weeks.
+* Follow-up: offered for 24 weeks after treatment cessation.
+
+**Medications:**
+
+* FGAs: haloperidol (3-6mg) or flupentixol (6-12mg).
+* SGAs: aripiprazole (10-20mg), olanzapine (10-20mg), or quetiapine (400-800mg).
+* Non-psychotropic medications allowed throughout the study.
+
+**Assessments:**
+
+* Primary outcome: area under the curve (AUC) of Short Form 36 Health Survey (SF-36) and Clinical Global Impression of Severity (CGI) scores over 24 weeks.
+* Secondary outcomes: Subjective Well-Being Under Neuroleptic Treatment Scale-Short Form (SWN-K), Positive and Negative Syndrome Scale (PANSS), Mini-ICF-APP, cognitive tests, and patient self-rated PSP.
+* Assessments conducted at baseline, week 6 (visit 4), and week 24 (visit 6). Additional assessments at weeks 2, 4, and 12.
+
+**Statistical Analysis:**
+
+* Full analysis set (FAS) included all randomized patients who received at least one dose of medication.
+* Missing values imputed by Last Observation Carried Forward (LOCF) and linear interpolation.
+* Primary efficacy analysis focused on AUC of SF36 and CGI scores.
+* Secondary analyses exploratory.
+* Statistical software: SAS® version 9.4.

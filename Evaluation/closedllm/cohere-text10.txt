@@ -1,0 +1,11 @@
+Here is a summary of the method section of the clinical trial: 
+
+Method:
+
+Participants: Sixty-eight infants and toddlers, ranging from 12 to 24 months old, participated in the study with a near-even split of males and females. The participants were predominantly Caucasian and from middle-class socioeconomic backgrounds. All participants were healthy and typically developing, and they completed the tasks. One 12-month-old girl was excluded from the data analysis as she did not touch any toys. 
+
+Procedure: The procedure was adapted from Mumme and Fernald (2003). Participants first engaged in a warm-up free play period to adjust to the lab setting. Testing involved viewing prerecorded video clips of a child displaying emotions toward toys on a color TV monitor. The participants were seated in a high chair, with the mother nearby but instructed not to interact. The experimenter was obscured from view. Each testing session had three 50-s trials. Each trial began with a 5-s attention grabber, followed by a 20-s peer emotion display and a 30-s play period with a pair of toys. The first trial was always neutral, the second displayed either positive or negative emotion, and the third was always positive. 
+
+Stimuli and Materials: Four novel toys were used in pairs, and a young female displayed emotions toward these toys in the video stimuli. The female expressed neutral, positive, and fearful emotions with corresponding vocalizations. In the trials, the peer displayed attention and simple interest (first trial), positive or negative emotion (second trial), and positive emotion (third trial). The toys and the direction of the peer's emotions were counterbalanced. 
+
+Measures: The dependent variables were looking time and touch time, coded from video recordings by three blind coders using Noldus™ Observer software. Looking time was the duration of attention to the video display, and touch time was the duration of physical interaction with the toys, including passive and active touch. Reliability was established, with intraclass correlations of .85 for looking time and .96 for touch time. Only the first 30 seconds of playtime were coded to control for slight variations in toy removal time by parents.

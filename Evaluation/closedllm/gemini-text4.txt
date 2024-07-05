@@ -1,0 +1,96 @@
+Ethics and Registration:
+
+    All studies were approved by Institutional Review Boards and participants provided informed consent.
+    All studies are registered on the Open Science Framework ([OSF link will be provided later]).
+    Detailed descriptions of materials, analyses, and deviations from plans are available in the Supplementary Information.
+    Studies 1, 2, and 4 were pre-registered before data analysis. Studies 3, 5, and 6 were pre-registered after data analysis, but followed rigorous standards to constrain researcher bias.
+
+Intervention:
+
+    The intervention was a 30-minute online self-administered session.
+    Participants were randomly assigned to the intervention or control group.
+    Both conditions were blinded (participants and researchers did not know which group they were in).
+
+Synergistic Mindsets Intervention:
+
+    This intervention aimed to change negative mindsets about stressful events.
+    It targeted two mindsets:
+        Fixed mindset: the belief that intelligence is fixed and cannot change.
+        Stress-is-debilitating mindset: the belief that stress is negative and harms performance, health, and well-being.
+    The intervention countered these negative mindsets with:
+        Growth mindset: the belief that intelligence can develop through effort.
+        Stress-can-be-enhancing mindset: the belief that stress can be helpful for performance, health, and well-being.
+    Participants were encouraged to see challenges as opportunities for growth and view stress as the body's natural way to help them overcome challenges.
+    The intervention used educational materials, stories from successful students, and writing exercises to reinforce these messages.
+    Adherence to the intervention was high (above 82%) across all studies.
+
+Control Group Content:
+
+    The control group also received a 30-minute online self-administered session.
+    The content looked similar to the intervention but did not target mindsets.
+    It included information about the brain, memory, and the body's stress response system.
+
+Baseline Measures:
+
+    Participants completed questionnaires to assess negative mindsets at the beginning of each study (except study 2).
+
+Analysis Strategy:
+
+    The researchers used a statistical method called Bayesian causal forests (BCF) to analyze the data.
+    This method is designed to be conservative and avoid misleading results.
+    The researchers focused on estimating the size of the treatment effect (how much the intervention helped) rather than null hypothesis testing (finding statistically significant results).
+    Covariates (factors that could influence the results) were included in the analysis to account for any imbalances between the groups.
+
+Sample Size and Participants:
+
+    Study 1 aimed for a large, diverse sample (3,000 adolescents) but achieved a final sample size of 2,503 due to pandemic limitations. Participants were recruited from public schools (grades 8-12) and represented a mix of genders, ethnicities, and socioeconomic backgrounds.
+    Study 2 included introductory social science college students (N=83) who were predominantly female and came from a range of socioeconomic backgrounds.
+
+Procedure:
+
+    Study 1 used an online platform where participants imagined a stressful assignment and reported their appraisals before and after the intervention. They also chose between an easy or challenging assignment at the end.
+    Study 2 involved students completing the intervention or control materials before a graded quiz and then reporting their appraisals of the quiz.
+
+Measures:
+
+    Study 1 assessed event-focused appraisals (threat to performance) and response-focused appraisals (body's stress response as helpful or hurtful). It also measured behavioral intentions by recording choices between easy and hard assignments.
+    Study 2 used self-reported agreement with statements about whether their body's stress responses helped or hurt their quiz performance.
+
+Key Findings:
+
+    Study 1 showed the intervention increased the likelihood of choosing the challenging assignment.
+    Study 2 did not report the main results yet, but will describe how the intervention impacted students' appraisals of their stress responses during a quiz.
+
+Overall:
+
+These studies aimed to test the feasibility and initial effectiveness of the intervention in different educational settings (high school vs. college) and with diverse populations.
+
+Study 5: Daily Stress Responses in Adolescents
+
+    Participants:
+        118 adolescents from a low-income urban charter school (99% from economically disadvantaged families)
+        78% Black/African American, 5% White or Asian
+        Grades 9-12
+    Procedure:
+        Participants were assigned to one of three groups: intervention, control, or baseline measure.
+        Intervention group received the synergistic mindsets intervention on a tablet.
+        All groups completed daily diary entries (twice a day) for five consecutive school days, reporting on stressors and their feelings about themselves that day.
+        Saliva samples were also collected three times a day to measure cortisol levels (a stress hormone).
+    Key Findings:
+        The study aimed to assess the intervention's impact on daily negative self-regard (feelings about oneself) and cortisol levels.
+        Results are not explicitly mentioned but will likely be presented in a future publication.
+
+Study 6: Anxiety During COVID-19 Lockdowns
+
+    Participants:
+        Undergraduate social science students from the same university as Study 2.
+    Procedure:
+        Participants received the intervention in January 2020.
+        In April 2020 (during COVID-19 lockdowns), they completed a survey measuring general anxiety symptoms.
+    Key Findings:
+        The intervention group showed reduced general anxiety symptoms compared to the control group.
+
+Overall:
+
+    These studies aimed to examine the effectiveness of the intervention on stress and anxiety in real-world settings (daily life and a pandemic situation).
+    Study 5 focused on daily experiences of adolescents, while Study 6 investigated the impact on anxiety during a stressful event (lockdowns).

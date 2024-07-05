@@ -1,0 +1,17 @@
+Participants and Recruitment
+In 2009 and 2010, medical and psychology students from the University of Oslo and the University of Tromsø were recruited during their second or third term. Information sessions and emails directed students to a website to register and provide electronic consent before completing the initial online questionnaire (T1). No exclusion criteria were applied, targeting 60-100 participants per group to achieve a power calculation with an alpha level of .05 and 80% power, based on expected reductions in stress and mental distress. Further details on sample calculation are available at www.clinicaltrials.gov.
+
+Procedures
+Participants were randomized into intervention or control groups using a Java-based random number generator, without gender stratification. Post-randomization, group allocations were communicated via email, and participants were prompted by email up to three times to complete the follow-up questionnaire (T2). Data anonymization was handled by assigning ID numbers linked to their questionnaires, managed solely by the head technician at the Norwegian Knowledge Centre for the Health Services. Participants received a book voucher for completing the T1 and T2 questionnaires.
+
+Description of the Intervention
+The intervention was a modified Mindfulness-Based Stress Reduction (MBSR) program adapted from Kabat-Zinn's original. The program, independent of the curriculum, included six weekly sessions and a longer session in week seven, with daily 30-minute home practices. Adjustments were based on pre-study focus group feedback. Training materials included a manual and CDs, and instructors emphasized non-judgmental engagement.
+
+Instructor Qualifications and Compliance
+Six instructors (three men, three women), trained at the Center for Mindfulness in Massachusetts, conducted the courses. They adhered closely to the MBSR manual, consulting after each class to ensure program fidelity.
+
+Measures
+Psychological health impacts were measured using several scales: the General Health Questionnaire (GHQ12) for mental distress, the adapted Perceived Medical School Stress (PMSS) scale, the Maslach Burnout Inventory (MBI) for student burnout, a 4-item subjective well-being scale, and the Five Facet Mindfulness Questionnaire (FFMQ). Each scale included specific response categories and scoring methods, with Cronbach's alpha values indicating reliability. Student compliance was tracked through attendance and self-reported practice.
+
+Statistical Analyses
+Effectiveness of randomization was verified using t-tests and chi-square tests. Data integrity was maintained through obligatory completion of questionnaire items, with missing data handled via the last-observation-carried-forward method. MANCOVA was used to adjust for baseline measures and explore the intervention's effects, incorporating gender as a covariate due to the randomization method. Effect sizes were calculated using Hedges' g, and the Number Needed to Treat (NNT) was computed to assess the clinical significance of the intervention on mental distress. Further analyses, including mediation analyses, are planned after two-year follow-up data collection.

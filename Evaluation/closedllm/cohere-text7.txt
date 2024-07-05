@@ -1,0 +1,15 @@
+Here is a summary of the provided text: 
+
+Method:
+
+Participants and Procedures:
+This clinical trial included healthy women aged 60 and older who felt they were not fulfilling their generative potential. 78 participants were randomized into a 6-week generativity or control writing group. The study aimed to investigate the link between writing and health. 5 participants dropped out, resulting in a final sample of 73 women. The generativity group wrote about their life lessons and wisdom for middle-aged adults, knowing their responses would be published. The control group wrote about neutral topics with no expectation of sharing. Ethical approval was obtained, and consent was provided by all participants. 
+
+Self-report Measures:
+
+- ERA Survey (Mental Health Domain): Assessed beliefs about mental health and aging, with a focus on social aspects (α = .64).
+- Social Provisions Scale: Measured pre-and post-intervention to assess multiple domains of perceived social support (PSS), including emotional attachment and social integration (α = .90).
+- UCLA Loneliness Scale: Valid and reliable scale (α = .92) measured pre-and post-intervention to assess loneliness and social well-being.
+
+General Analytic Strategy:
+The PROCESS macro for SPSS was used to test the moderating effect of ERA on PSS and loneliness. The interaction between the writing condition (generativity vs. control) and ERA on post-intervention PSS and loneliness was examined, controlling for pre-intervention values.

@@ -1,0 +1,24 @@
+Method
+
+Participants
+A total of 1,670 students from fifth to tenth grades, ages 10 to 16 (M = 12.96, SD = 2.01), from six elementary and secondary schools across Israel participated. Schools were selected using a two-stage random sampling method, with initial recruitment of school principals followed by blind randomization of schools into intervention or control groups. Ultra-orthodox and special education schools were excluded. The required sample size was determined using G-Power software, aiming for a medium effect size with a power of 0.80, resulting in a sample size of 289, although a larger sample was used to increase statistical power.
+
+Procedure
+Ethical approval was obtained from the Ethics Committee of Reichman University. Data collection occurred in three waves—September 2019, May 2021, and May 2022—using tablets at schools. Research assistants, blind to group assignment, facilitated the process. Participation was voluntary and anonymous, with both parental consent and student assent required.
+
+Intervention program: Positive Psychology Addiction Prevention (PPAP)
+The PPAP was a two-year, school-based program delivered every two weeks, totaling 30 units of two-hour sessions each, focusing on addiction prevention and positive psychology. Topics included self-awareness, addiction resistance, normative beliefs, and emotional regulation, among others. The program was delivered by trained teachers, who received a detailed manual and multimedia materials for standardization. Implementation fidelity was monitored through observations and validated measures of competence and adherence, with high adherence reported.
+
+Control group
+Students in the control group followed their regular curriculum without participating in any mental health or addiction prevention programs.
+
+Measures
+Three main instruments were used:
+
+    The Brief Symptom Inventory (BSI-18) for assessing mental health symptoms.
+    The Brief Multidimensional Students' Life Satisfaction Scale (BMSLSS) for measuring life satisfaction.
+    The Positive and Negative Affect Schedule for Children (PANAS-C) for evaluating emotional well-being.
+    Additionally, the Screen Time Scale and the Adolescent Alcohol and Drug Involvement Scale (AADIS) measured screen time and substance use, respectively.
+
+Statistical analysis
+Baseline characteristics were compared using t-tests and chi-square tests. Outcome changes were analyzed using mixed model growth curve analyses, with demographic and school-level variables as covariates. Significant mean differences within and between groups were assessed, and maximum likelihood estimation was used for handling missing data, which was less than 3%.
