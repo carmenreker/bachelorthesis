@@ -1,0 +1,7 @@
+ The study involved 1,670 fifth to tenth grade students from six demographically similar schools in Israel, using a two-stage random sampling method. Exclusion criteria were specific religious and non-comparable schools. Blind randomization was performed using encrypted codes. The sample size of 289 was determined to achieve sufficient power for the study design.
+
+Data were collected over three waves using tablets in school settings, with parental consent and student active consent. The Positive Psychology Addiction Prevention (PPAP) program, consisting of 30 interactive units, was delivered by trained teachers over two years. The program aimed to integrate addiction prevention strategies with wellbeing constructs.
+
+Implementation fidelity was monitored through teacher self-reports and school counselor observations. The intervention group's teachers delivered an average of 29 out of 30 lessons, with high adherence to the lesson plans. The control group continued with the regular curriculum without additional mental health or addiction prevention programs.
+
+The study employed mixed model growth curve analyses to examine changes in outcome variables over time. Covariates included teacher effects, school size, socioeconomic composition, and classroom size. The study found statistically significant mean differences within and between groups for various measures.

@@ -1,0 +1,13 @@
+ The study was a randomized, parallel-group pilot and feasibility trial conducted in Detroit, Michigan, from May to December 2020. Participants, aged 60 and older, were randomized after baseline assessment to either the intervention or control group. The intervention group received a fully remote program called Positive STEPS, which included web-based videos, weekly telephone sessions with a Community Health Worker (CHW), and a workbook. The control group did not participate in any study activities but were later given access to the program materials and a one-time session with a CHW.
+
+The Positive STEPS intervention was developed based on the STEPS 2 pilot intervention, focusing on positive activities such as Life Review, Savoring, Random Acts of Kindness, Gratitude Jar, and Music as Medicine. The intervention was culturally adapted to reflect the vernacular and cultural values of African American older adults.
+
+The intervention was delivered entirely remotely, with participants receiving program materials by mail, watching videos and reading workbook content on their own, and participating in weekly telephone sessions with their assigned CHW. The CHWs, who had previously delivered the STEPS 2 intervention, played a crucial role in the development of the new positive activity content.
+
+The study also included a control condition where participants did not take part in any study activities but were later given access to the program materials and a one-time session with a CHW.
+
+The study also included a detailed description of the methods used to recruit participants, the inclusion and exclusion criteria, the data collection process, and the measures used to assess the outcomes.
+
+The study also evaluated the feasibility and acceptability of the intervention, including retention rates, engagement levels, and participant feedback. The study also assessed the impact of the intervention on various outcomes, including pain interference, physical functioning, pain self-efficacy, social participation, resilience, and health and demographic variables.
+
+In conclusion, the study provided a comprehensive overview of the Positive STEPS intervention, including its development, delivery, and evaluation. The study also highlighted the feasibility and acceptability of the intervention, providing valuable insights for future research and implementation.

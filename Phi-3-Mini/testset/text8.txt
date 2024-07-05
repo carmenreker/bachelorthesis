@@ -1,0 +1,79 @@
+Method
+
+
+Study Design/Setting
+A randomized, parallel-group pilot and feasibility trial was conducted in Detroit, Michigan, from May to December 2020. Participants were randomized after completion of the baseline assessment (preventing assessor bias) to intervention or control conditions using a computergenerated block randomization scheme (sealedenvelope. com). At the 8-week follow-up, assessors were aware of group assignment because intervention group members were administered additional questions regarding their experience. This trial was registered on clinicaltrials.gov (NCT04321239) and was approved by the University of Michigan Institutional Review Board (HUM00162275).
+
+Intervention development
+Positive STEPS was adapted from our "STEPS 2" pilot intervention (Janevic et al., 2021), which was based on a prior successful internet CPSM intervention (Williams et al., 2010). Because we had recently developed culturally responsive content and procedures for STEPS 2, when developing Positive STEPS we focused on selecting and refining the new positive activity content.
+
+Focus groups
+We conducted two focus groups (n = 16; 100% identified as female and African American, with chronic musculoskeletal pain), in order to (a) determine which potential positive activities were most appealing, and (b) elicit examples and capture appropriate ways of describing these activities that could be incorporated into intervention materials to enhance their relevance to the priority population. We presented eight potential activities, drawn primarily from the ongoing PRISM trial (R01-AR070296 NIH/NIAMS) led by coauthor A. L. Hassett. We described each activity and gauged participants' reactions. Where possible, participants tried out the activity (e.g., by thinking of things they could savor or acts of kindness). The activities that received the most uniformly positive feedback were Life Review, Savoring, Random Acts of Kindness, Gratitude Jar, and Music as Medicine. Other activities, including Best Possible Self, Forgiveness Letters, and Legacy Building, received mixed feedback; we opted not to include these in the intervention.
+
+CHW input
+Three CHWs (who had also delivered the STEPS 2 intervention) played an essential role in the development of the new positive activity content. In a series of working meetings, they reviewed iterative versions of the CHW manual, participant workbook, and program website, which were modified per their suggestions. Materials incorporated culturally familiar examples throughout; these elements also reflected CHW input.
+
+Intervention Description
+Figure 1 depicts the study flow and intervention content. This was a completely remote intervention: program materials were mailed; all sessions including the orientation session took place over the phone, and participants completed program tasks including watching videos on their own. For each of the 7 weeks following the orientation, participants watched a web-based video addressing a specific cognitive-behavioral pain management skill or positive activity and/or read about these in their workbook. They also had a weekly 30-min, structured telephone session with their designated CHW (details below).
+
+Cultural adaptations
+Adaptations to program materials reflected "surface" changes such as adjusting some of the language used to reflect the vernacular of African American older adults and integrating race-concordant presenters in videos, as well as "deep" changes that embedded cultural values such as spirituality and community engagement into the program (Resnicow et al., 1999). In addition, the program was tailored to the local context. For example, some of the "enjoyable activity" suggestions in the workbook drawn from focus groups included local options (e.g., jewelrymaking, virtual Bible study, classes at senior centers or community colleges, virtual trips to the Detroit Zoo).
+
+Core pain self-management skills
+The following STEPS 2 modules were used: Understanding Chronic Pain, SMART Goal-Setting, Staying Active, and Doing What You Love.
+
+Positive activities
+Four sessions were devoted to positive activities. All participants completed the Doing What You Love (engaging in pleasant activities; also considered a core CPSM skill) and Music as Medicine modules. Then, CHWs presented a menu of four additional positive activities (Savoring, Life Review, Gratitude Jar, and Random Acts of Kindness), briefly describing each. Participants were told that they would choose one of the four activities to complete during the current session and one during the next session. In the final intervention session, participants were reminded that they could try the two remaining activities following program completion, if they wished. The rationale for allowing participant choice was that a given positive activity was most likely to benefit a participant if it was appealing to them.
+
+CHW-led component CHW training.
+The CHWs who delivered the STEPS 2 intervention (Janevic et al., 2021) also delivered Positive STEPS, following a half-day training in the newly developed content. All three CHWs had previously completed the Michigan Community Health Worker Alliance training, which teaches core competencies including communication skills, healthy lifestyle components, and legal and ethical responsibilities.
+Session format. In each session, CHWs reinforced key points related to the weekly topic, discussed the participant's situation, and formulated a "Try it Out" plan related to that week's topic. Participants also set an "Active Goal" (a pain self-management goal chosen by the participant that focused on increasing activity-whether physical, social, selfcare or otherwise) in SMART format. CHWs reviewed daily step counts with participants, using this as a springboard to discuss activity patterns and barriers. The Participant Workbook included a summary of the key points from each week's video and accompanying worksheets. CHWs referred participants to community resources as needed. CHWs recorded all information about sessions, including case notes, using REDCap electronic data capture tools hosted at the University of Michigan (Harris et al., 2019).
+
+Positive STEPS website
+The simple program website (https://sites.google.com/ umich.edu/positivesteps/) included videos introducing each of the three CHWs and a separate page for each of the seven program modules. Most modules included a brief didactic video presented by a University of Michigan expert presenting a particular skill, along with additional links to useful articles and videos.
+
+Activity trackers
+A commercially available, wrist-worn activity tracker was provided to participants. They were asked to wear the tracker during waking hours for the duration of the intervention. Each evening, participants received an automated text message asking them to input that day's step count, visible on their activity tracker. (Five participants chose to log their step counts on paper instead.) Project staff regularly input texted step count data into REDCap, so that it could be accessed by CHWs. Step counts were used as a helpful source of information for CHWs and participants alike to assess activity levels. Participants could choose to incorporate step counts into their Active Goal, but they were not required to. Step count data are not analyzed in the current report.
+
+Control condition
+Between the baseline and follow-up surveys, participants in the control condition did not take part in any study activities. After completing the follow-up telephone survey, control group members were given a link to the website, the workbook, and the activity tracker and were invited to take part in a one-time session of approximately 75 min with a CHW covering key intervention content.
+
+Participants
+
+
+Inclusion criteria
+Eligible adults were aged 60 and older, ambulatory with or without an assistive device, with musculoskeletal pain of at least 3 months' duration, with at least one day in the last 30 days when pain made it difficult to do usual activities. Participants had to have a smartphone or other means of watching online videos.
+
+Exclusion criteria
+Serious acute illness or hospitalization in the last month or planned major surgery in the next 3 months. Participants were asked if they had significant memory difficulties that interfered with daily activities. If they answered yes, they were read a description of the program and asked if their memory challenges would get in the way of being able to do the program; participants responding no were eligible.
+
+Recruitment
+Participants were primarily recruited through a registry for African American older adults interested in participating in research maintained by the Healthier Black Elders Center at the Wayne State University Institute of Gerontology (Chadiha et al., 2011). Individuals meeting broad study criteria (age, indication of back pain, or arthritis) were initially contacted by letter describing the study, followed by a phone call to further assess eligibility, answer questions, and to invite to participate, if appropriate. Participants were also recruited via word of mouth at community locations in Detroit serving older adults and from a list maintained by the researchers of people who wished to be contacted for future pain-related studies.
+
+Data Collection
+Telephone interviews lasting approximately one hour were conducted by trained research assistants at baseline and 8 weeks (immediately postprogram). The assessment included self-reported health, psychosocial, and demographic measures. For intervention group members, the follow-up interview also included a series of closed-and open-ended questions about their experience in Positive STEPS. Participants received a small financial incentive for each research interview. They were also invited to keep the activity tracker.
+
+Measures
+
+
+Primary outcomes
+Pain interference. This is measured with the six-item PROMIS-43 Adult Profile subscale. All PROMIS measures have demonstrated high reliability and construct validity (Cella et al., 2019) and evidence of equivalent item functioning supports their use in sociodemographically diverse groups (Jones et al., 2016;Teresi & Reeve, 2016). Items ask how much pain has interfered with daily activities such as household chores and social activities in the last 7 days (1 = not at all to 5 = very much).
+Physical functioning. This is measured with the four-item PROMIS-29 Adult Profile subscale. Items ask how much difficulty the participant has with daily activities such as household chores, using stairs, and walking for 15 min (1 = unable to do to 5 = without any difficulty; Cella et al., 2019).
+
+Secondary outcomes Participant global impression of change.
+Participants were asked at follow-up how their functioning and pain (in separate items) had changed from baseline, using a 7-point scale from "much worse" to "much better" (Dworkin et al., 2005). As an exploratory outcome, we asked "How does the amount of pain medication you are taking now compare to what you were taking at the time of the first interview?" on a 7-point scale from "a lot more" to "a lot less." Pain intensity. A numeric rating scale ranging from 0 (no pain at all) to 10 (worst pain you can imagine; Dworkin et al., 2005).
+Pain self-efficacy. An eight-item scale assessing confidence to participate in various life activities despite pain (0 = not at all confident to 6 = completely confident), which has high internal consistency reliability (Cronbach's alpha > 0.90) and strong construct validity (Nicholas, 2007).
+
+Social participation.
+A four-item PROMIS-29 subscale rating difficulty participating in family activities, leisure activities, and work (5 = never to 1 = always; Cella et al., 2019).
+Resilience. The 10-item Connor-Davidson Resilience Scale rates the degree to which respondents can be resilient in various situations (0 = not true at all to 4 = true nearly all the time; Connor & Davidson, 2003). This unidimensional scale has good construct validity and internal consistency (Campbell-Sills & Stein, 2007).
+Health and demographic variables. We collected data on gender, racialized group/ethnicity, educational attainment, employment status, health literacy (Chew et al., 2004), education, financial strain (indicated by difficulty paying bills each month, from "not at all" to "extremely" difficult), and health insurance status.
+
+Feasibility and acceptability
+Retention. The proportion of participants who completed the study out of those enrolled.
+Engagement. The number of sessions completed out of 7, and the proportion of participants who reported watching all the program videos. We established a threshold of 60% of sessions completed as a minimum to indicate feasibility.
+Acceptability. In a series of closed-and open-ended questions, participants were asked to give feedback on each intervention component as well as the overall program. The impact of each specific module was assessed by tallying the number of times the module was stated to be useful to participants (as part of a response to any item).
+
+Data Analysis
+IBM SPSS Statistics (version 24; Armonk, NY) was used for data analysis. We calculated descriptive statistics for baseline characteristics and compared groups at baseline using independent-sample t-tests for continuous variables and chi-squared tests for categorical variables. We converted each PROMIS subscale score to a T-score (a standardized score with a mean of 50 and SD of 10) by summing the scales and using the conversion tables provided at HealthMeasures.net.
+To assess the effect of being in the intervention group, we estimated a univariate analysis of variance model for each continuous primary and secondary outcome. The dependent variable in each model was the value of the outcome at 8-week follow-up; the independent factor was the treatment group (intervention vs. control), with the baseline value of the outcome used as a continuous covariate. Effect size was indicated by partial eta squared for the treatment group variable. In order to assess the potential clinical relevance of the intervention, we used chi-squared tests to compare the proportion of participants in the intervention versus control groups who achieved the Minimally Important Difference of ≥ 3 T-score points in PROMIS pain interference (Chen et al., 2018). Finally, we calculated frequencies for closed-ended participant satisfaction items and categorized open-ended responses about each major intervention element (CHW sessions, web-based videos, activity trackers, workbooks, and overall) into subthemes under each element, tallying the number of positive and negative comments for each.

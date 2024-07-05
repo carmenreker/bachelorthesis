@@ -1,0 +1,97 @@
+<text>
+Methods
+This study was a single-blind, two-site randomized trial of a four-week, telephone-based PP intervention for patients with an acute depressive episode in the context of bipolar disorder. All participants were admitted between April 2013 and April 2016 to inpatient psychiatric units at an urban general hospital or psychiatric hospital. Institutional Review Board approval at both sites was obtained, and the trial was registered on clinicaltrials.gov (ClinicalTrials.gov Identifier: NCT01820286). All participants provided informed consent prior to participation in the trial.
+
+Participants
+Participants were adults admitted to an inpatient psychiatric unit with an admission diagnosis of bipolar depression. Bipolar depression diagnosis was confirmed using the Mini International Neuropsychiatric Interview (MINI) (Sheehan et al., 1998), inpatient chart review, and discussion with the patient's psychiatrist. Participants were excluded if they exhibited psychotic symptoms (assessed using the MINI and chart review), cognitive impairment (assessed using a six-item cognitive screen) (Callahan, Unverzagt, Hui, Perkins, & Hendrie, 2002), or had a primary admission diagnosis of a substance use disorder.
+
+Study Procedures
+Participants were identified through review of inpatient censuses and approached during their admission. One to two days prior to discharge, interested and eligible participants provided informed consent and were enrolled in the study. After completing baseline outcome measures, participants were randomized (using a random number generator) to either the PP or CC group. In both treatment conditions, participants were provided with a corresponding treatment manual and assigned the first exercise prior to discharge. Over the subsequent four weeks, a study trainer (CMC or CAM) spoke with participants weekly via telephone to review the exercise and to assign an additional exercise, with participants completing a total of four exercises. A blinded assessor administered self-report measures by telephone at four and eight weeks post-enrollment.
+Study trainers had clinical degrees (MD or LICSW) and experience delivering the PP and CC interventions to patients. Prior to delivering this intervention, they reviewed both treatment manuals and practiced delivering the interventions together to minimize variability in delivery. Trainers were available to deliver either intervention to participants.
+
+Study Interventions
+Positive psychology:
+The PP intervention was developed based on prior published interventions (S. Lyubomirsky, King, & Diener, 2005;Seligman et al., 2005;Sheldon & Lyubomirsky, 2006), our work in patients with psychiatric and medical illness (Celano et al., 2016;Huffman, Albanese, et al., 2016;Huffman et al., 2014;Huffman et al., 2011;Huffman, Millstein, et al., 2016), and our pre-pilot work in patients with bipolar depression. Each week, participants completed an exercise and then reviewed it with their study trainer. During the weekly phone calls, trainers focused on increasing participants' vocabularies for positive emotions, reinforcing the positive emotions experienced while performing the exercise, and promoting integration of the exercises into daily life. The PP intervention consisted of the following four exercises:
+
+•
+Week 1 -Gratitude letter (Seligman et al., 2005): Participants wrote a letter thanking someone for an act for which they were grateful.
+
+•
+Week 2 -Using personal strengths (Seligman et al., 2005): Participants used a strength in a new way.
+
+•
+Week 3 -Performing acts of kindness (S. Lyubomirsky et al., 2005): Participants performed three acts of kindness in one day.
+
+•
+Week 4 -Imagining a best possible self (Sheldon & Lyubomirsky, 2006): Participants wrote about their best possible life in the future.
+
+Control condition (CC):
+The CC was designed to mirror the PP intervention in the number of phone contacts with a clinician and the number and type of mental assignments completed between phone sessions. Participants in the CC group were asked to recall and write down three neutral events that occurred each day over the previous week. Similar to those receiving PP, participants in the CC intervention engaged in weekly phone calls to review the prior week's exercise and to assign the next week's exercise. To maintain interest, participants were asked to write about neutral events in their lives related to a different topic each week:
+• Week 1 -Daily events: Participants recalled events that occurred in their day-today life.
+• Week 2 -Health-related events: Participants recalled events related to their mental or physical health.
+
+•
+Week 3 -Social events: Participants recalled events that involved interaction with others.
+
+•
+Week 4 -Morning and evening events: Participants recalled events that occurred at different times during the day.
+This condition has been used in studies of PP interventions in healthy, medically ill, and psychiatrically ill populations (Celano et al., 2016;Huffman et al., 2011;Sheldon & Lyubomirsky, 2006). While it was designed to have little impact on psychiatric symptoms and has minimal effects on positive and negative affect in healthy and medically ill individuals (Huffman et al., 2011;Sheldon & Lyubomirsky, 2006), a recent study of patients hospitalized for depression and suicidal ideation found this CC to be superior to an active psychological intervention (Celano et al., 2016), raising the possibility that it may have benefits for patients with acute psychiatric illnesses.
+
+Outcomes
+Sociodemographic information, psychiatric history, and post-discharge treatments were obtained from the patient's medical record.
+
+Feasibility (primary study outcome):
+Feasibility was measured by recording the number of PP exercises completed by participants randomized to that condition, as well as the proportion of participants who provided followup data. We hypothesized that most participants would complete at least three of four PP exercises, and 80% of participants would provide follow-up assessment data. Acceptability was examined using participants' ratings of how easy (ease) and helpful (utility) each PP exercise was to complete, which were obtained from participants following the completion of each exercise. Ease and utility scores were separately rated on a 5-point Likert scale (ease: 1 = very difficult and 5 = very easy; utility: 1 = not helpful and 5 = very helpful).
+
+Immediate impact on hopelessness and optimism:
+The impact of each PP and CC exercise on hopelessness and optimism was examined by asking participants to rate their hopelessness and optimism on 5-point Likert scales before and after each exercise (hopelessness: 1 = not hopeless and 5 = very hopeless; optimism: 1 = not optimistic and 5 = very optimistic). Pre-post changes in these constructs were considered to represent the immediate impact of the PP or CC exercises on these constructs. We hypothesized that PP exercises would lead to significant pre-post improvements in optimism and hopelessness and that these improvements would be greater than those of the CC group.
+
+Positive psychological constructs:
+Optimism: Life Orientation Test-Revised (LOT-R; range 0-24; Cronbach's α=0.86) (Scheier, Carver, & Bridges, 1994): This 6-item self-report scale is well-validated (Herzberg, Glaesmer, & Hoyer, 2006) and has been used as a measure of optimism in patients with psychiatric illness (Celano et al., 2016).
+Positive affect: Positive and Negative Affect Schedule (PANAS; range 10-50; α=0.87) (Watson & Clark, 1984): The 10-item positive affect subscale of the PANAS is valid (Watson, Clark, & Tellegen, 1988) and has been used to measure positive affect in samples of depressed individuals (Berman et al., 2012;Celano et al., 2016).
+Gratitude: Gratitude Questionnaire-6 (GQ-6; range 6-42; α=0.57) (McCullough, Emmons, & Tsang, 2002): The GQ-6 is a 6-item measure of gratitude that has been used in a variety of clinical populations, including those with significant depression (Huffman, Beale, et al., 2016;Ivtzan & Papantoniou, 2014;McCullough et al., 2002).
+
+Suicide risk factors:
+Hopelessness: Beck Hopelessness Scale (BHS; range 0-20; α=0.94): The 20-item BHS was used to measure hopelessness (Beck, Weissman, Lester, & Trexler, 1974). This valid scale has been used in multiple depression studies, and elevated scores are associated with an increased risk of suicide (Beck, Brown, Berchick, Stewart, & Steer, 1990;Beck, Brown, & Steer, 1989).
+Suicidal ideation: Concise Health Risk Tracking scale (CHRT; range 0-48; α=0.91): The CHRT (Trivedi et al., 2011), a well-validated 12-item questionnaire, was used as a measure of suicidality.
+Depression: Quick Inventory of Depressive Symptomatology, Self-Report (QIDS-SR; range 0-27; α=0.78): Depressive symptoms were measured using the QIDS-SR (Rush et al., 2003), a widely used and validated self-report measure (Trivedi, 2009).
+
+Data Analysis
+Sociodemographic information, psychiatric history, and post-discharge treatments:
+Baseline sociodemographic information was summarized using means (standard deviation [SD]) or proportions. Between-group differences on sociodemographic information and psychiatric variables, as well as baseline scores on outcome measures, were assessed using ttests for continuous variables and chi-square analyses for categorical ones.
+
+Feasibility and acceptability:
+We performed descriptive statistics to examine the proportion of PP exercises completed and the mean ease and utility scores for PP exercises. Between-group differences in ease and utility scores were assessed using mixed effects regression models, which allowed us to control for intra-individual variability (since each participant could have completed up to 4 PP or CC exercises).
+
+Immediate impact on hopelessness and optimism:
+We performed paired t-tests to determine whether hopelessness and optimism scores differed before and after each PP exercise. We also examined whether the immediate impact of the PP and CC interventions differed using mixed effects regression models, accounting for intra-individual variability. Effect sizes (modified Cohen's d) were calculated by dividing the group coefficient by the SD of the residual in the regression model.
+
+Impact on positive and negative psychological constructs at 4 and 8 weeks:
+To examine the impact of the PP and CC interventions on psychological constructs, paired ttests were performed. To examine the impact of the PP intervention on psychological states compared to CC, we created mixed effects regression models to compare between-group differences in change in psychological states at four and eight weeks. Given the small sample size of this pilot trial, we did not expect to find statistically significant betweengroup differences on psychological outcomes. Instead, effect sizes (modified Cohen's d)
+were calculated by dividing the Group x Time interaction coefficient by the standard deviation (SD) of the residual in the regression model, to determine the sample size needed to identify significant differences on these outcomes in future studies.
+All analyses were performed using Stata 14 (StataCorp., College Station, TX). Twotailed alpha was set at .05 for all analyses.
+</text>
+
+<summary>
+<text>
+This is a summary of the methods section of a scientific clinical trial in the field of psychology. The study investigated the effects of a telephone-based positive psychology (PP) intervention for patients with bipolar disorder who were experiencing an acute depressive episode.
+
+Participants were adults admitted to an inpatient psychiatric unit with a diagnosis of bipolar depression. Bipolar depression diagnosis was confirmed using a standardized interview (MINI) and review of medical records. Participants were excluded if they exhibited psychotic symptoms, cognitive impairment, or had a substance use disorder.
+
+The study was a single-blind, two-site randomized trial. Participants were randomized to either the PP intervention or a control condition (CC). The PP intervention consisted of four weekly telephone exercises designed to increase participants' positive emotions and optimism. The CC intervention involved recalling and writing about neutral events.
+
+The primary outcome of the study was feasibility, measured by the number of PP exercises completed by participants and the proportion of participants who provided follow-up data. Secondary outcomes included the impact of the intervention on hopelessness, optimism, positive affect, gratitude, and depressive symptoms.
+
+Here is a table summarizing the outcome measures used in the study:
+
+| Outcome | Measure | Description |
+|---|---|---|
+| Feasibility | Number of PP exercises completed | The number of weekly telephone exercises that participants completed |
+| Feasibility | Proportion of participants who provided follow-up data | The percentage of participants who completed follow-up assessments |
+| Hopelessness | Beck Hopelessness Scale (BHS) | A 20-item self-report measure of hopelessness |
+| Optimism | Life Orientation Test-Revised (LOT-R) | A 6-item self-report measure of optimism |
+| Positive affect | Positive Affect Schedule (PANAS) | A 10-item self-report measure of positive affect |
+| Gratitude | Gratitude Questionnaire-6 (GQ-6) | A 6-item self-report measure of gratitude |
+| Depression | Quick Inventory of Depressive Symptomatology, Self-Report (QIDS-SR) | A 16-item self-report measure of depressive symptoms |
+</text>
+</summary>

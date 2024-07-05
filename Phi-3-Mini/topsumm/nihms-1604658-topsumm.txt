@@ -1,0 +1,49 @@
+<text>
+METHOD Participants
+Parent-adolescent dyads were recruited from a juvenile drug court (JDC) in the northeastern United States-a diversionary program for first-time or repeat nonviolent offenders. All adolescents reported active substance use but were not necessarily charged with drug-related crimes. The case manager or presiding judge referred families to research staff who obtained informed consent and assent. Study methods were approved by the Institutional Review Board of the primary investigator (M. T.-S.). Of 283 referred families, 233 were eligible, 60 consented and were randomized, and the 47 who received any intervention were included in this study. Table 1 displays participant characteristics (see Tolou-Shams et al., 2017 for CONSORT flowchart and details of inclusion and exclusion criteria and demographics).
+
+Interventions
+After baseline assessment, dyads were randomly assigned to Family-based Affect Management Intervention (FAMI; n = 25) or adolescent-only Health Promotion Intervention (HPI; n = 22). FAMI was designed to prevent substance use and HIV through improving adolescents' and parents' emotion regulation strategies, increasing adolescents' motivation to reduce substance use and RSB, and building parents' skills and motivation to support adolescents' behavior change over four two-hour sessions (19 per week) plus one "booster" two-hour session in the eighth week. Matched on time and appeal to FAMI, HPI provided adolescents with psychoeducation on substance use, HIV prevention, and healthrelated behaviors (e.g., nutrition, exercise). A similar number of sessions were attended by FAMI (M = 4.52) and HPI (M = 4.77) participants (see Tolou-Shams et al., 2017 for details on intervention content, dosage, and fidelity).
+
+Measures
+Measures were administered using Audio Computer Assisted Self-Interview (ACASI) at baseline and at 3 months postintervention (i.e., after the booster session, henceforth termed "postintervention"). Participants were informed that a Certificate of Confidentiality was obtained, and JDC staff could not access research-related information.
+Parent distress.-Parents completed the Symptom Checklist-90-Revised (SCL-90-R; Derogatis, 1994), a 90-item self-report inventory covering a broad spectrum of psychopathology (e.g., depression, anxiety) for individuals aged 13 years and older. We used the Global Severity Index (GSI), a measure of overall psychological distress computed from all but two suicidal ideation items (these were omitted given lack of clinical resources to address caregiver disclosures of imminent suicide risk). Higher scores reflect greater severity; 0.23, 0.51, and 0.97 indicate mild, moderate, and severe symptomatology, respectively (Tingey, Lambert, Burlingame, & Hansen, 1996).
+Adolescent substance use and sexual risk.-Adolescents completed the Adolescent Risk Behavior Assessment (ARBA; Donenberg, Emerson, Bryant, Wilson, & Weber-Shifrin, 2001), designed to assess adolescents' self-reported substance use and sexual behaviors. We used the number of days of marijuana use, number of days of alcohol use, and number of risky sexual acts (i.e., unprotected vaginal or anal sex) during the past 90 days (see Tolou-Shams et al., 2017).
+Adolescent mental health.-Adolescents completed the Youth Self-Report (YSR; Achenbach & Rescorla, 2001), a 118-item self-report measure of emotional and behavioral problems for youth (11-18 years). We used age-and gender-normed T-scores from the internalizing problems (e.g., depression, anxiety) and externalizing problems (e.g., rulebreaking, aggression) scales. Higher scores reflect greater severity; cutoffs of 60 and 64 indicate borderline-and clinical-range scores, respectively.
+
+Data Analysis
+We modeled each outcome at postintervention, entering intervention condition, baseline parent distress, and their interaction as predictors, and baseline levels of the outcome as covariates. For each YSR outcome, we covaried both baseline internalizing and externalizing problems scores (see Achenbach, Ivanova, Rescorla, Turner, & Althoff, 2016). We modeled the postintervention substance use and RSB outcomes as dichotomous variables (yes vs. no) and as count variables (number of days of substance use, number of risky sexual acts) because we wanted to examine whether parent distress and its interaction with intervention impacted whether adolescents engaged in the behavior, and how much they did so, respectively. We analyzed the baseline values of those outcomes as counts to maximize comparability between models. We modeled dichotomous outcomes using logistic regression. We found no fit or assumption violations with the Hosmer-Lemeshow goodnessof-fit test and the Box-Tidwell approach to test the linearity of the logit (Hosmer & Lemeshow, 2000). We modeled count outcomes using generalized linear models with negative binomial distribution and log link function. We used linear regression for mental health outcomes because their distributions showed no significant departures from normality.
+Significance level was set at α= .05 for each model. Finally, we probed significant interactions using the Johnson-Neyman technique, which identifies the range of parent GSI values for which FAMI and HPI significantly differed on dichotomous or continuous outcomes-"the "region of significance." Three families (two FAMI, one HPI) missed the postintervention assessment and one adolescent did not complete postintervention YSR. We imputed baseline values for missing postintervention outcomes, consistent with primary outcome analyses (Tolou-Shams et al., 2017). YSR analyses excluded data from two adolescents who completed insufficient YSR items at baseline to generate scale scores and RSB analyses excluded data from one adolescent who skipped relevant questions at baseline. These six participants reported significantly fewer baseline days of marijuana use than the remaining participants; they did not differ on other characteristics. Analyses were conducted using SPSS Version 25, with Hayes' (2013) PROCESS macro to identify the region of significance.
+<text>
+
+<summary>
+<text>
+Here is a summary of the provided text: 
+
+Method:
+
+Participant Recruitment and Characteristics:
+- Parent-adolescent pairs (dyads) were recruited from a juvenile drug court (JDC) diversion program in the northeastern US, totaling 47 families included in the study out of 283 referred. 
+- Adolescents had active substance use but varied in terms of criminal charges.
+- The study interventions were assigned randomly to the dyads: Family-Based Affect Management Intervention (FAMI) or adolescent-only Health Promotion Intervention (HPI).
+
+Interventions:
+- FAMI aimed to prevent substance use and HIV by improving emotion regulation and motivation in adolescents and building parental support skills over four primary sessions and one "booster" session.
+- HPI provided psychoeducation on substance use, HIV prevention, and health-related topics and was matched to FAMI in terms of time and appeal.
+
+Measures and Data Collection:
+- Measures were taken at baseline and 3 months post-intervention using Audio Computer Assisted Self-Interview (ACASI).
+- Parent distress was assessed using the Symptom Checklist-90-Revised (SCL-90-R), specifically the Global Severity Index (GSI) as an indicator of overall psychological distress.
+- Adolescent substance use and sexual risk behaviors were evaluated using the Adolescent Risk Behavior Assessment (ARBA), focusing on marijuana and alcohol use days and unprotected sexual acts.
+- Adolescent mental health was assessed through the Youth Self-Report (YSR), analyzing internalizing and externalizing problem scales.
+
+Data Analysis:
+- Analyzed outcomes at post-intervention, considering intervention condition, baseline parent distress, and their interaction, with baseline levels of outcomes as covariates.
+- Modeled dichotomous and count variables for substance use and RSB outcomes and used logistic regression and generalized linear models, respectively.
+- Utilized linear regression for mental health outcomes.
+- Employed the Johnson-Neyman technique to probe significant interactions and identify the region of significance.
+- Handled missing data by imputing baseline values and excluding incomplete assessments.
+
+The provided text has been summarized while retaining the essential details about the methods used in the clinical trial. This summary provides a concise overview of the participant recruitment, interventions, measures, and data analysis techniques employed in the study.
+</text>
+</summary>

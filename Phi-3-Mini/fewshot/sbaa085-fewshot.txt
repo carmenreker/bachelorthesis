@@ -1,0 +1,142 @@
+<source text>
+Methods
+The full protocol of this study has been published elsewhere 37 ; most relevant details of study procedures are described below.
+
+Participants
+Clinically stable adults with schizophrenia were recruited from multiple sites: San Francisco VA Medical Center (SFVAMC), University of Minnesota (UMN), University of California, Los Angeles (UCLA), Los Angeles VA Hospital (LAVA) and Rush University. Study participants met DSM-V criteria for a diagnosis of schizophrenia (assessed using the Structured Clinical Interview for DSM-IV; SCID-P 38 ), were between 18 and 65 years of age, had an estimated IQ ≥ 70 based on the Wechsler Test of Adult Reading (WTAR 39 ), were clinically stable for 8 weeks prior to consent, had no more than a moderate severity rating on hallucinations and unusual thought content (a score of ≤4 on the Positive and Negative Syndrome Scale; PANSS 40 ), and no active suicidal ideation with specific plan and intent (measured by the Columbia-Suicide Severity Rating Scale; C-SSRS 41 ). Finally, participants had been maintained on a stable treatment of no more than 2 antipsychotics and/or other concomitant psychotropic treatment for at least 6 weeks prior to consent.
+
+Study Design
+Institutional review board approval was obtained at the coordinating center (WIRB Pro Number 20141695; ClinicalTrials.gov Identifier: NCT02246426) and at each trial site. All participants signed an informed consent form prior to participation in the study.
+Eligible participants completed baseline assessments in the lab/clinic and were then randomly assigned to either experimental (SocialVille) or active control (casual games) training conditions (see below). Random allocation was performed using stratification by gender, education (<13 y, >13 y), and age (18-40 y, 41-65 y) to each group at each site with an allocation ratio of 1:1. To minimize the imbalance between the number of participants in each group over these factors, we employed a minimization method 42 of adaptive stratification.
+Participants were loaned a laptop and were asked to complete training from home for 3-5 times/wk, for a total of 40   33,37 ). It is composed of 27 unique exercises, which collectively target visual and vocal affect perception, social cue perception, ToM, self-referential style, and empathy. Training exercises are built using similar mechanisms to those of general cognitive training, but employ socially relevant stimuli, designed to improve processing speed and accuracy in the brain systems dedicated to the processing of social information. 32 Active Control Training Program. We used 13 conventional, progressive, and commercially available computer games, which were shown to provide face-valid cognitive stimulation and were rated E (for everyone) by the Entertainment Software Rating Board (ESRB). Games have been embedded in the Posit Science training portal to help maintain blinding and control for potential placebo effects, as all participants underwent the same procedure. In addition, this type of control helped match expectation-based influences on performance as well as the experimental program in overall program use intensity, staff interaction, reward, and overall engagement. Importantly, these games did not have any social content or individualized progression.
+
+Outcome Measures
+Primary Outcome Measures. We used a co-primary outcome measure, composed of an SC composite, and a functional capacity measure. The a priori co-primary SC outcome measure was a composite score of 6 SC assessments, collectively assessing facial emotion recognition (The Penn Emotional Recognition Test, ER40 43 ), prosody identification (The Prosody Identification Test, PROID 44 ), immediate and delayed memory for faces (the Penn Faces Memory Test, PFMT), 43 the Mayer-Salovey-Caruso Emotional Intelligence Test (MSCEIT 45 ) managing emotions subscale and the Empathic Accuracy (EA)Task. 46 The a priori functional capacity outcome measure was the UCSD Performance-based Skills Assessment (UPSA-2), 47 which assesses skills in 5 areas: household chores, communication, finance, transportation, and planning recreational activities.
+Secondary Outcome Measures. In addition to the primary outcomes, we assessed clinical status and symptom severity using the Positive and Negative Syndrome Scale (PANSS), 40 and functioning using the Virtual Reality Functional Capacity Assessment Tool (VRFCAT 48 ), a virtual reality (VR) measure mimicking a real-life scenario of a shopping trip. Functioning was further assessed using the Global Functioning Scale: Social and Role (GFS 49,50 ), Social Functioning Scale (SFS 51 ), an abbreviated version of the Quality of Life Scale (QLS 52 ), and the Specific Levels of Functioning Scale (SLOF 53 ).
+SC was assessed using additional measures of facial affect perception (the Morphed Faces Task), 54 social perception (The Awareness of Social Inference Test, Part 3 [TASIT]) 55 ; ToM (the Faux Pas Recognition Test 56,57 ), memory for the source of items (The Source Memory Test 58 ), and attributional style (The Ambiguous Intentions Hostility Questionnaire, AIHQ 59 ).
+Finally, we assessed motivation, which has been found to be a critical mediator between SC and function in schizophrenia, 60 using both the Temporal Experience of Pleasure Scale (TEPS 61 ) and the Behavioral Inhibition/ Behavioral Activation Scale (BIS/BAS 62 ), which assesses sensitivity to anticipated punishment or reward.
+
+Data Analysis
+Power calculations are reported elsewhere. 37 Primary Analysis. Groups were compared on all baseline measures. Differences between groups were tested via Mann-Whitney U tests (for continuous variables) or Pearson chi-square tests (for categorical variables). Raw scores of the 6 primary SC outcomes were first converted into Z-scores, and then summed and normalized (mean of 100, SD of 15).
+Since there were group differences on the primary outcomes at baseline, we implemented a propensity score framework based on demographic and primary outcomes to compare trajectories of change over time. 63,64 This process effectively creates a matched sample. 65 To test whether groups differed in change over time, data were analyzed according to the intent-to-treat (ITT) principle, in which all subjects randomized into either the treatment or control group were included in the analysis. This was accomplished via a linear mixedeffects model (LMM), where missing data was handled via full information maximum likelihood (FIML). FIML is a "gold standard" approach to handling missing data, assuming that data is missing at random (MAR). To examine whether this assumption may have been met, prior to running the primary analysis, we examined patterns of missing data via pattern-mixture models. 66 The LMM included fixed effects of time, group, and a group × time interaction, with random intercepts of subject and site, as well as a random slope of time. Statistical significance was assessed at a 2-sided P-value of P < .05. We applied a Bonferroni adjustment to correct for multiple comparisons. Thus,
+
+Online Social Cognition Training in Schizophrenia
+the threshold for statistical significance was set at .05/2 = .025.
+</source text>
+
+<summary #1>
+<text>
+Methods Summary
+
+Participants Recruitment and Criteria
+Adults with schizophrenia were recruited from five different institutions: San Francisco VA Medical Center, University of Minnesota, University of California, Los Angeles, Los Angeles VA Hospital, and Rush University. Eligibility included: DSM-V diagnosis, 18-65 years of age, IQ ≥ 70 (Wechsler Test of Adult Reading), clinical stability for 8 weeks, mild-to-moderate symptoms (Positive and Negative Syndrome Scale ≤4), no acute suicidal plans (Columbia-Suicide Severity Rating Scale), and stable on up to 2 antipsychotics or other psychotropic drugs for 6 weeks.
+
+Study Design and Consent
+Following ethical approval and consent via informed consent forms, participants underwent baseline assessments before being randomly assigned to either the SocialVille or active control group, using gender, education, and age for stratification. Randomization employed a 1:1 allocation ratio with a minimization method to balance group sizes.
+
+Intervention Details
+Participants received a laptop to undertake training from home 3-5 times per week. The SocialVille program, which consists of 27 exercises, targets various aspects of social cognition like perception of social cues and empathy. The control group engaged in commercially available computer games lacking social content, ensuring blinding and controlling for placebo effects.
+
+Outcome Measures
+Primary outcomes were assessed using a co-primary approach: a social cognition (SC) composite and a functional capacity measure. The SC composite included tests like the Penn Emotional Recognition and Prosody Identification Tests. Functional capacity was measured using the UCSD Performance-based Skills Assessment. Secondary outcomes included symptom severity (Positive and Negative Syndrome Scale), functioning (Global Functioning Scale, Social Functioning Scale), and additional SC measures (Morphed Faces Task, Faux Pas Recognition Test).
+
+Data Analysis
+Primary analysis involved comparing baseline measures between groups, using Mann-Whitney U and Pearson chi-square tests. Outcome scores were normalized to Z-scores. A linear mixed-effects model was applied to assess group differences over time, with a Bonferroni correction setting significance at .025. Data handling included a full information maximum likelihood approach, assuming missing data were random.
+</text>
+<explanation>
+Fluency is great, good data retention.
+</explanation>
+</summary #1>
+
+<summary #2>
+<text>
+## Summary of Methods in SocialVille Schizophrenia Trial
+
+This study investigated the effectiveness of a web-based social cognition training program (SocialVille) for adults with schizophrenia.
+
+**Participants:**
+
+* Clinically stable adults with schizophrenia recruited from multiple US sites.
+* Diagnosed with schizophrenia (SCID-P), aged 18-65, IQ ≥ 70 (WTAR).
+* Minimally symptomatic (PANSS), no active suicidal ideation (C-SSRS).
+* Stable medication regimen for at least 6 weeks.
+
+**Study Design:**
+
+* Participants were randomly assigned to either SocialVille training or a control group playing casual computer games.
+* Allocation considered gender, education, and age for balanced groups.
+* Participants completed training at home 3-5 times/week for a total of 40 sessions.
+
+**Interventions:**
+
+* SocialVille: A web-based program with 27 exercises targeting social skills like emotion recognition and perspective-taking.
+* Control Group: Played 13 commercially available computer games with no social content.
+
+**Outcome Measures:**
+
+* Primary Outcomes:
+    * Social cognition composite score (facial emotion recognition, prosody identification, etc.).
+    * Functional capacity assessment (UCSD Performance-based Skills Assessment).
+* Secondary Outcomes:
+    * Clinical symptoms (PANSS).
+    * Functional capacity in daily activities (VRFCAT, GFS, etc.).
+    * Additional social cognition assessments (TASIT, Faux Pas test).
+    * Motivation (TEPS, BIS/BAS scales).
+
+**Data Analysis:**
+
+* Baseline group comparisons were conducted to ensure similar starting points.
+* To account for baseline differences, propensity score analysis was used to create comparable groups.
+* Changes in outcomes over time were analyzed using linear mixed-effects models.
+* Statistical significance was set at p < .025 after Bonferroni correction for multiple comparisons.
+  
+**Further details on specific assessments and statistical methods are available elsewhere [37].**
+</text>
+<explanation>
+A little ungrammatical, but the important data is there.
+</explanation>
+</summary #2>
+
+<summary #3>
+<text>
+Here is a summary of the methods section of the provided clinical trial: 
+
+This clinical trial aims to investigate the effectiveness of online social cognition training for people with schizophrenia. The study protocol has been published previously, with relevant details described below. 
+
+Participants:
+- Clinically stable adults with schizophrenia were recruited from multiple sites: SFVAMC, UMN, UCLA, LAVA, and Rush University. 
+- Participants met DSM-V criteria for schizophrenia, were 18-65 years old, had an IQ of at least 70, and were stable on their treatment for at least 6 weeks prior to consent. 
+- Additional inclusion criteria included mild to moderate severity of hallucinations and no active suicidal ideation. 
+
+Study Design:
+- Institutional review board approval was obtained, and all participants provided informed consent.
+- Participants were randomly assigned to either the experimental (SocialVille) or active control (casual games) group, stratified by gender, education, and age.
+- They were loaned laptops and asked to complete training from home, 3-5 times per week, for a total of 40 hours. 
+
+Interventions:
+- Experimental Group (SocialVille): 
+  - SocialVille is a computerized cognitive training program consisting of 27 unique exercises targeting various social cognitive domains. 
+  - Exercises aim to improve processing speed and accuracy in brain systems dedicated to social information processing. 
+
+- Active Control Group: 
+  - The control group received commercially available computer games that provided cognitive stimulation but did not have social content or individualized progression. 
+  - This control condition matched the experimental group in overall program use intensity, staff interaction, reward, and engagement. 
+
+Outcome Measures:
+- Primary Outcome Measures: 
+  - Social Cognition (SC) Composite: A composite score of 6 SC assessments measuring facial emotion recognition, prosody identification, memory for faces, emotional intelligence, and empathic accuracy. 
+  - Functional Capacity: The UCSD Performance-based Skills Assessment (UPSA-2) measures skills in household chores, communication, finance, transportation, and planning recreational activities. 
+
+- Secondary Outcome Measures: 
+  - Clinical status and symptom severity (PANSS), functioning (VRFCAT, GFS, SFS, QLS, SLOF), additional SC measures (Morphed Faces Task, TASIT, Faux Pas Recognition Test, etc.), and motivation (TEPS, BIS/BAS scales). 
+
+Data Analysis:
+- Primary analysis compared groups on baseline measures using Mann-Whitney U tests and chi-square tests. 
+- Raw scores of primary SC outcomes were converted into Z-scores and normalized. 
+- Due to group differences at baseline, a propensity score framework was used to compare trajectories of change over time, employing linear mixed-effects models and the intent-to-treat principle. 
+- Statistical significance was set at a Bonferroni-adjusted P-value of .025.
+</text>
+<explanation>
+A little ungrammatical, but the important data is there, less well-structured than the previous summary.
+</explanation>
+</summary #3>
