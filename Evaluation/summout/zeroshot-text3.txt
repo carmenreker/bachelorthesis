@@ -1,0 +1,9 @@
+ The study involved patients aged 18 to 65 with schizophrenia who required treatment changes due to insufficient response or intolerability. Exclusions included hypersensitivity to study drugs, acute suicidality, involuntary treatment, or significant interactions with antipsychotic treatment. Cannabis abuse was not an exclusion criterion. The Neuroleptic Strategy Study (NeSSy) included 136 patients from 14 German psychiatric hospitals, comparing typical and atypical antipsychotics.
+
+Patients provided informed consent and were randomized into FGA or SGA groups. However, 136 patients were evaluated due to dropouts or non-compliance, with 63 in the FGA group and 73 in the SGA group. The study used the PSP questionnaire, assessing four dimensions of functioning.
+
+Sociodemographic data were collected from 122 patients, with baseline profiles on age, sex, diagnosis, duration, and severity of depression. The study design was a multicentre, double-blind, randomized trial, adhering to ethical guidelines and Good Clinical Practice.
+
+Medication involved FGAs and SGAs over 24 weeks, with follow-up services offered. The PSP and other scales assessed psychopathological symptoms, quality of life, and functional abilities. Data were collected at baseline and at visits 0, 4, and 6.
+
+Statistical analysis included imputation for missing values and correlation computations. The primary efficacy analysis focused on SF36 and CGI values over time.
