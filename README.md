@@ -18,7 +18,7 @@ For further help with the use of Hábrók, please visit its official documentati
 Part of the code can be run locally, like preprocessing. Anything requiring a model, like the summary generation and calculating BERTscore requires Hábrók (or any other device with strong computational power). For ease, two requirement files are provided. These can be run with the following command:
 
 ```
-pip install -r requirements.txt
+pip install -r requirements_local.txt
 ```
 
 ## 1. Extracting the PDFs
